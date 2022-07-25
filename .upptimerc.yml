@@ -11,6 +11,9 @@ sites:
     url: http://server.waddlepenguins.me:8080
   - name: Waddle Penguins Island - Content
     url: https://cdn.waddlepenguins.me/
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Files 2 Server
     url: https://files2.dink.cf/
   - name: Files 3 Server
