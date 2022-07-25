@@ -1,29 +1,55 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: MoonlightStudiosInt # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Waddle Penguins Island - Website
+    url: https://waddlepenguins.me/
+  - name: Waddle Penguins Island - API
+    url: https://api.waddlepenguins.me/
+  - name: Waddle Penguins Island - Game Server
+    url: http://server.waddlepenguins.me:8080
+  - name: Waddle Penguins Island - Content
+    url: https://cdn.waddlepenguins.me/
+  - name: Files 2 Server
+    url: https://files2.dink.cf/
+  - name: Files 3 Server
+    url: https://files3.dink.cf/
+  - name: Club Penguin Atake - Website
+    url: https://cpatake.net/
+  - name: Club Penguin Atake - Apps
+    url: https://apps.cpatake.net/
+  - name: Club Penguin Atake - AS1
+    url: https://as1.cpatake.net/
+  - name: Club Penguin Atake - AS2
+    url: https://as2.cpatake.net/
+  - name: Club Penguin Atake - AS2 (CC)
+    url: https://web.cpatake.net/as2/cc
+  - name: Club Penguin Atake - AS3
+    url: https://as3.cpatake.net/
+  - name: Club Penguin Atake - Client 3
+    url: https://3.cpatake.net/
+  - name: Club Penguin Atake - Web Client
+    url: https://web.cpatake.net/
+  - name: Club Penguin Atake TV
+    url: https://tv.cpatake.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.dink.cf
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://files3.dink.cf/images/moonlight/logo.png
+  name: Moonlight Status
+  introTitle: "Welcome to the Moonlight Studios' Status page."
+  introMessage: Check the status of your favourite services here.
   navbar:
     - title: Status
       href: /
+    - title: Waddle Penguins Island
+      href: https://waddlepenguins.me/?from=status.dink.cf
+    - title: Club Penguin Atake
+      href: https://cpatake.net/?from=status.dink.cf
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
