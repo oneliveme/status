@@ -8,7 +8,7 @@ sites:
   - name: Waddle Penguins Island - API
     url: https://api.waddlepenguins.me/
   - name: Waddle Penguins Island - Game Server
-    url: http://server.waddlepenguins.me:8080
+    url: $GAMESERVER_URL
   - name: Waddle Penguins Island - Content
     url: https://cdn.waddlepenguins.me/
     expectedStatusCodes:
