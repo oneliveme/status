@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/waddlepenguins.me",
     "slug": "waddle-penguins-island-website",
     "status": "down",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 263,
     "timeDay": 84,
     "timeWeek": 263,
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/api.waddlepenguins.me",
     "slug": "waddle-penguins-island-api",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 327,
     "timeDay": 404,
     "timeWeek": 327,
@@ -262,9 +262,9 @@
     "url": "https://tv.cpatake.net/",
     "icon": "https://favicons.githubusercontent.com/tv.cpatake.net",
     "slug": "club-penguin-atake-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -273,6 +273,8 @@
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-29": 0
+    }
   }
 ]
