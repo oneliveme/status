@@ -155,18 +155,18 @@
     "icon": "https://favicons.githubusercontent.com/as1.cpatake.net",
     "slug": "club-penguin-atake-as-1",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.84%",
+    "uptimeDay": "98.23%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 282,
     "timeDay": 293,
     "timeWeek": 290,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2022-08-05": 3
+      "2022-08-05": 25
     }
   },
   {
@@ -174,19 +174,19 @@
     "url": "https://as2.cpatake.net/",
     "icon": "https://favicons.githubusercontent.com/as2.cpatake.net",
     "slug": "club-penguin-atake-as-2",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 295,
-    "timeDay": 338,
-    "timeWeek": 300,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1385,
+    "timeDay": 7943,
+    "timeWeek": 2206,
+    "timeMonth": 1385,
+    "timeYear": 1385,
     "dailyMinutesDown": {
-      "2022-08-05": 2
+      "2022-08-05": 24
     }
   },
   {
@@ -212,19 +212,19 @@
     "url": "https://as3.cpatake.net/",
     "icon": "https://favicons.githubusercontent.com/as3.cpatake.net",
     "slug": "club-penguin-atake-as-3",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 282,
-    "timeWeek": 318,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 348,
+    "timeDay": 433,
+    "timeWeek": 352,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {
-      "2022-08-05": 0
+      "2022-08-05": 22
     }
   },
   {
@@ -271,7 +271,7 @@
     "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
     "time": 76,
