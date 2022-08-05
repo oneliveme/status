@@ -154,36 +154,40 @@
     "url": "https://as1.cpatake.net/",
     "icon": "https://favicons.githubusercontent.com/as1.cpatake.net",
     "slug": "club-penguin-atake-as-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 282,
     "timeDay": 293,
     "timeWeek": 290,
     "timeMonth": 282,
     "timeYear": 282,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-05": 3
+    }
   },
   {
     "name": "Club Penguin Atake - AS2",
     "url": "https://as2.cpatake.net/",
     "icon": "https://favicons.githubusercontent.com/as2.cpatake.net",
     "slug": "club-penguin-atake-as-2",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 295,
     "timeDay": 338,
     "timeWeek": 300,
     "timeMonth": 295,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-05": 2
+    }
   },
   {
     "name": "Club Penguin Atake - AS2 (CC)",
@@ -208,9 +212,9 @@
     "url": "https://as3.cpatake.net/",
     "icon": "https://favicons.githubusercontent.com/as3.cpatake.net",
     "slug": "club-penguin-atake-as-3",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,7 +223,9 @@
     "timeWeek": 318,
     "timeMonth": 330,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-05": 0
+    }
   },
   {
     "name": "Club Penguin Atake - Client 3",
@@ -263,11 +269,11 @@
     "icon": "https://favicons.githubusercontent.com/tv.cpatake.net",
     "slug": "club-penguin-atake-tv",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
     "time": 76,
     "timeDay": 74,
     "timeWeek": 60,
