@@ -1,7 +1,7 @@
 url: $GAMESERVER_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-08-26T17:45:09.376Z
+status: up
+code: 200
+responseTime: 338
+lastUpdated: 2022-08-26T17:52:09.089Z
 startTime: Mon Jul 25 2022 16:11:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
