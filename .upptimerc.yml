@@ -36,13 +36,19 @@ sites:
     url: https://web.cpatake.net/
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.net/
+  - name: Club Penguin Atake TV Video CDN
+    url: https://cdn.cpataketv.dink.cf/
+  - name: Club Penguin Atake TV Images CDN
+    url: https://cdn-images.cpataketv.dink.cf/
+  - name: Club Penguin Atake TV Edge Captions
+    url: https://edge-captions.cpataketv.mshq.tk/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dink.cf
   # baseUrl: /your-repo-name
-  logoUrl: https://files3.dink.cf/images/moonlight/logo.png
+  logoUrl: https://files3.dink.cf/images/moonlight/square.png
   name: Moonlight Status
   introTitle: "Welcome to the Moonlight Studios' Status page."
   introMessage: Check the status of your favourite services here.
