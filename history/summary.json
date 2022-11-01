@@ -368,7 +368,7 @@
     "slug": "club-penguin-atake-tv-video-cdn",
     "status": "down",
     "uptime": "37.57%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "0.03%",
     "uptimeWeek": "0.52%",
     "uptimeMonth": "37.57%",
     "uptimeYear": "37.57%",
@@ -414,18 +414,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/captions-tv.cpatake.net.ico",
     "slug": "club-penguin-atake-tv-edge-captions",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 612,
     "timeDay": 248,
     "timeWeek": 880,
     "timeMonth": 612,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2022-11-01": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
