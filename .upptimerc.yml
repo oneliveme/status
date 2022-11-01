@@ -38,10 +38,19 @@ sites:
     url: https://tv.cpatake.net/
   - name: Club Penguin Atake TV Video CDN
     url: https://cdn.cpataketv.dink.cf/
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Club Penguin Atake TV Images CDN
     url: https://cdn-images.cpataketv.dink.cf/
+    expectedStatusCodes:
+      - 200
+      - 403
   - name: Club Penguin Atake TV Edge Captions
-    url: https://edge-captions.cpataketv.mshq.tk/
+    url: https://captions-tv.cpatake.net/
+    expectedStatusCodes:
+      - 200
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
