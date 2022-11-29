@@ -32,6 +32,8 @@ sites:
     url: https://as3.cpatake.net/
   - name: Club Penguin Atake - Client 3
     url: https://3.cpatake.net/
+    headers:
+    - "User-Agent: cpatakeapp/3.statusbot"
   - name: Club Penguin Atake - Web Client
     url: https://web.cpatake.net/
   - name: Club Penguin Atake TV
