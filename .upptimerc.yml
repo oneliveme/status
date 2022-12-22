@@ -18,6 +18,12 @@ sites:
     url: https://files2.dink.cf/
   - name: Files 3 Server
     url: https://files3.dink.cf/
+  - name: Moonlight Studios Archive
+    url: https://archive.dink.cf/
+    expectedStatusCodes:
+      - 200
+      - 404
+      - 403
   - name: Club Penguin Atake - Website
     url: https://cpatake.net/
   - name: Club Penguin Atake - Apps
