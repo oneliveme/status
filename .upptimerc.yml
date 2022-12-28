@@ -36,10 +36,10 @@ sites:
     url: https://web.cpatake.net/as2/cc
   - name: Club Penguin Atake - AS3
     url: https://as3.cpatake.net/
-  - name: Club Penguin Atake - Client 3.2
-    url: $CLUBPENGUINATAKE_CLIENTORBIT_URL
+  - name: Club Penguin Atake - Client 4.0
+    url: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_URL
     headers:
-    - "User-Agent: cpatakeapp/3.2.01-STATUS"
+    - "User-Agent: moonlightstudios/status1"
   - name: Club Penguin Atake - Web Client
     url: https://web.cpatake.net/
   - name: Club Penguin Atake TV
