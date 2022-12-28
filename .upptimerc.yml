@@ -43,7 +43,7 @@ sites:
   - name: Club Penguin Atake - Web Client
     url: https://web.cpatake.net/
   - name: Club Penguin Atake TV
-    url: https://tv.cpatake.net/
+    url: https://cpataketv.dink.cf/
   - name: Club Penguin Atake TV Video CDN
     url: https://cdn.cpataketv.dink.cf/
     expectedStatusCodes:
@@ -55,7 +55,7 @@ sites:
       - 200
       - 403
   - name: Club Penguin Atake TV Edge Captions
-    url: https://captions-tv.cpatake.net/
+    url: https://captions.cpataketv.dink.cf
     expectedStatusCodes:
       - 200
       - 403
