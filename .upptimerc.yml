@@ -55,10 +55,14 @@ sites:
       - 200
       - 403
   - name: Club Penguin Atake TV Edge Captions
-    url: https://captions.cpataketv.dink.cf
+    url: https://captions.cpataketv.dink.cf/
     expectedStatusCodes:
       - 200
       - 403
+  - name: Club Penguin Elemental
+    url: https://cpelemental.dink.cf/
+  - name: Club Penguin Elemental Client
+    url: https://cpelemental-client.dink.cf/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
