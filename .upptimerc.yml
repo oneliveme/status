@@ -25,23 +25,21 @@ sites:
       - 404
       - 403
   - name: Club Penguin Atake - Website
-    url: https://cpatake.net/
-  - name: Club Penguin Atake - Apps
-    url: https://apps.cpatake.net/
+    url: https://cpatake.dink.cf/
   - name: Club Penguin Atake - AS1
-    url: https://as1.cpatake.net/
+    url: https://as1-cpa.dink.cf/
   - name: Club Penguin Atake - AS2
-    url: https://as2.cpatake.net/
+    url: https://as2-cpa.dink.cf/
   - name: Club Penguin Atake - AS2 (CC)
-    url: https://web.cpatake.net/as2/cc
+    url: https://web.cpatake.dink.cf/cppscreator
   - name: Club Penguin Atake - AS3
-    url: https://as3.cpatake.net/
+    url: https://as3-cpa.dink.cf/
   - name: Club Penguin Atake - Client 4.0
     url: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_URL
     headers:
     - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
   - name: Club Penguin Atake - Web Client
-    url: https://web.cpatake.net/
+    url: https://web.cpatake.dink.cf/
   - name: Club Penguin Atake TV
     url: https://cpataketv.dink.cf/
   - name: Club Penguin Atake TV Video CDN
