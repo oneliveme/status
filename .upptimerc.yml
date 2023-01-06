@@ -49,6 +49,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+      - 401
   - name: Club Penguin Atake TV Images CDN
     url: https://cdn-images.cpataketv.dink.cf/
     expectedStatusCodes:
