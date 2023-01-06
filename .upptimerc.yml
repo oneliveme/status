@@ -39,7 +39,7 @@ sites:
   - name: Club Penguin Atake - Client 4.0
     url: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_URL
     headers:
-    - "User-Agent: cpatakeapp/4.status"
+    - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
   - name: Club Penguin Atake - Web Client
     url: https://web.cpatake.net/
   - name: Club Penguin Atake TV
