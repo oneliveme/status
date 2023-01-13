@@ -78,7 +78,7 @@ status-website:
     - title: Waddle Penguins Island
       href: https://waddlepenguins.me/?from=status.dink.cf
     - title: Club Penguin Atake
-      href: https://cpatake.net/?from=status.dink.cf
+      href: https://cpatake.dink.cf/?from=status.dink.cf
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
