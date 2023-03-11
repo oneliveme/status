@@ -70,7 +70,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://files3.dink.cf/images/moonlight/square.png
   name: Moonlight Status
-  introTitle: "Welcome to the Moonlight Studios' Status page."
+  introTitle: "Welcome to the Status page of all Moonlight Studios services."
   introMessage: Check the status of your favourite services here.
   navbar:
     - title: Status
