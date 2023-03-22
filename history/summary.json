@@ -170,11 +170,11 @@
     "url": "https://files3.dink.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/files3.dink.cf.ico",
     "slug": "files-3-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 651,
     "timeDay": 314,
@@ -182,7 +182,7 @@
     "timeMonth": 728,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2023-03-22": 7,
+      "2023-03-22": 2,
       "2022-12-02": 3,
       "2022-10-01": 24,
       "2022-08-27": 800
@@ -194,19 +194,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/files5.dink.cf.ico",
     "slug": "files-5-server",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 361,
     "timeDay": 263,
     "timeWeek": 361,
     "timeMonth": 361,
     "timeYear": 361,
-    "dailyMinutesDown": {
-      "2023-03-22": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Moonlight Studios Archive",
@@ -215,18 +213,16 @@
     "slug": "moonlight-studios-archive",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
     "timeDay": 338,
     "timeWeek": 355,
     "timeMonth": 773,
     "timeYear": 674,
-    "dailyMinutesDown": {
-      "2023-03-22": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Club Penguin Atake - Website",
@@ -235,9 +231,9 @@
     "slug": "club-penguin-atake-website",
     "status": "up",
     "uptime": "93.03%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "93.03%",
     "time": 393,
     "timeDay": 599,
@@ -245,7 +241,6 @@
     "timeMonth": 570,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2023-03-22": 6,
       "2023-01-29": 121,
       "2023-01-12": 1284,
       "2023-01-11": 1440,
@@ -692,7 +687,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 1190,
+      "2023-03-22": 1206,
       "2023-03-21": 541
     }
   }
