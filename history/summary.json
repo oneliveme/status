@@ -170,19 +170,19 @@
     "url": "https://files3.dink.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/files3.dink.cf.ico",
     "slug": "files-3-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.76%",
-    "time": 653,
-    "timeDay": 303,
-    "timeWeek": 335,
-    "timeMonth": 753,
-    "timeYear": 653,
+    "time": 652,
+    "timeDay": 318,
+    "timeWeek": 336,
+    "timeMonth": 741,
+    "timeYear": 652,
     "dailyMinutesDown": {
-      "2023-03-22": 2,
+      "2023-03-22": 6,
       "2022-12-02": 3,
       "2022-10-01": 24,
       "2022-08-27": 800
@@ -687,7 +687,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 1162,
+      "2023-03-22": 1168,
       "2023-03-21": 541
     }
   }
