@@ -1,7 +1,7 @@
 url: https://api.waddlepenguins.me/
-status: down
-code: 503
-responseTime: 93
-lastUpdated: 2023-04-03T23:09:18.006Z
+status: up
+code: 200
+responseTime: 223
+lastUpdated: 2023-04-04T13:32:55.968Z
 startTime: Mon Jul 25 2022 16:11:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
