@@ -676,19 +676,19 @@
     "url": "https://cpelemental.dink.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/cpelemental.dink.cf.ico",
     "slug": "club-penguin-elemental",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 314,
-    "timeDay": 313,
+    "time": 315,
+    "timeDay": 357,
     "timeWeek": 494,
-    "timeMonth": 385,
-    "timeYear": 314,
+    "timeMonth": 388,
+    "timeYear": 315,
     "dailyMinutesDown": {
-      "2023-05-13": 26
+      "2023-05-13": 27
     }
   },
   {
@@ -700,7 +700,7 @@
     "uptime": "67.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.27%",
+    "uptimeMonth": "91.29%",
     "uptimeYear": "67.41%",
     "time": 1280,
     "timeDay": 475,
