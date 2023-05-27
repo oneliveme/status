@@ -38,6 +38,10 @@ sites:
     url: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_URL
     headers:
     - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
+  - name: Club Penguin Atake - Client 4.1
+    url: https://butterfly-cpa.dink.cf/
+    headers:
+    - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
   - name: Club Penguin Atake - Web Client
     url: https://web.cpatake.dink.cf/
   - name: Club Penguin Atake TV
