@@ -14,6 +14,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+      - 404
   - name: Files 3 Server
     url: https://files3.dink.cf/
   - name: Files 5 Server
@@ -34,10 +35,6 @@ sites:
     url: https://web.cpatake.dink.cf/cppscreator
   - name: Club Penguin Atake - AS3
     url: https://as3-cpa.dink.cf/
-  - name: Club Penguin Atake - Client 4.0
-    url: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_URL
-    headers:
-    - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
   - name: Club Penguin Atake - Client 4.1
     url: https://butterfly-cpa.dink.cf/
     headers:
@@ -52,10 +49,6 @@ sites:
       - 200
       - 403
       - 401
-  - name: Club Penguin Elemental
-    url: https://cpelemental.dink.cf/
-  - name: Club Penguin Elemental AS2
-    url: https://as2-cpe.dink.cf/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
