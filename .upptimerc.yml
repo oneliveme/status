@@ -17,22 +17,27 @@ sites:
       - 404
   - name: Files 3 Server
     url: https://files3.dink.cf/
+  - name: Edge CDN
+    url: https://edge-cdn.dink.cf/
   - name: Files 5 Server
     url: https://files5.dink.cf/
-  - name: Moonlight Studios Archive
+  - name: Archive
     url: https://archive.dink.cf/
     expectedStatusCodes:
       - 200
       - 404
       - 403
+  - name: EXT CDN
+    url: https://cdn.ext.dink.cf/
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Club Penguin Atake - Website
     url: https://cpatake.dink.cf/
   - name: Club Penguin Atake - AS1
     url: https://as1-cpa.dink.cf/
   - name: Club Penguin Atake - AS2
     url: https://as2-cpa.dink.cf/
-  - name: Club Penguin Atake - AS2 (CC)
-    url: https://web.cpatake.dink.cf/cppscreator
   - name: Club Penguin Atake - AS3
     url: https://as3-cpa.dink.cf/
   - name: Club Penguin Atake - Client 4.1
@@ -43,8 +48,30 @@ sites:
     url: https://web.cpatake.dink.cf/
   - name: Club Penguin Atake TV
     url: https://cpataketv.dink.cf/
+  - name: Club Penguin Atake Radio
+    url: https://www.cpatake.dink.cf/radio/
+  - name: Club Penguin Atake E-Reader
+    url: https://www.cpatake.dink.cf/reader/
   - name: Club Penguin Atake TV Video CDN
     url: https://cdn.cpataketv.dink.cf/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 401
+  - name: Club Penguin Atake Radio Audio CDN
+    url: https://cdn.media-radio.cpatake.tk/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 401
+  - name: Club Penguin Atake Radio Audio CDN
+    url: https://cdn.media-radio.cpatake.tk/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 401
+  - name: Club Penguin Atake E-Reader Books CDN
+    url: https://cdn.books.cpatake.tk/
     expectedStatusCodes:
       - 200
       - 403
