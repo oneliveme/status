@@ -26,7 +26,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 404
-      - 403
+      - 401
   - name: EXT CDN
     url: https://cdn.ext.dink.cf/
     expectedStatusCodes:
