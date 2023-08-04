@@ -41,9 +41,9 @@
     "url": "https://api.waddlepenguins.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
-    "status": "up",
+    "status": "down",
     "uptime": "94.57%",
-    "uptimeDay": "95.79%",
+    "uptimeDay": "95.78%",
     "uptimeWeek": "96.59%",
     "uptimeMonth": "88.49%",
     "uptimeYear": "94.43%",
@@ -106,7 +106,7 @@
       "2023-04-23": 189,
       "2023-04-22": 499,
       "2023-04-18": 394,
-      "2023-04-17": 91
+      "2023-04-17": 70
     }
   },
   {
@@ -284,7 +284,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-08-04": 119,
+      "2023-08-04": 149,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
@@ -639,7 +639,7 @@
     "uptime": "88.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "35.20%",
+    "uptimeMonth": "35.27%",
     "uptimeYear": "88.31%",
     "time": 283,
     "timeDay": 378,
@@ -737,7 +737,7 @@
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-08-04": 120,
+      "2023-08-04": 150,
       "2023-08-03": 1440,
       "2023-08-02": 1440,
       "2023-08-01": 1440,
