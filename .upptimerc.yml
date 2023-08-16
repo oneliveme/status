@@ -15,23 +15,14 @@ sites:
       - 200
       - 403
       - 404
-  - name: Files 3 Server
-    url: https://files3.dink.cf/
-  - name: Edge CDN
-    url: https://edge-cdn.dink.cf/
-  - name: Files 5 Server
-    url: https://files5.dink.cf/
+  - name: CDN
+    url: https://cdn.fullmoon.dev/
   - name: Archive
     url: https://archive.dink.cf/
     expectedStatusCodes:
       - 200
       - 404
       - 401
-  - name: EXT CDN
-    url: https://cdn.ext.dink.cf/
-    expectedStatusCodes:
-      - 200
-      - 404
   - name: Club Penguin Atake - Website
     url: https://cpatake.dink.cf/
   - name: Club Penguin Atake - AS1
@@ -82,7 +73,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dink.cf
   # baseUrl: /your-repo-name
-  logoUrl: https://files3.dink.cf/images/moonlight/square.png
+  logoUrl: https://cdn.fullmoon.dev/images/moonlight/square.png
   name: Moonlight Status
   introTitle: "Welcome to the Status page of all Moonlight Studios services."
   introMessage: Check the status of your favourite services here.
