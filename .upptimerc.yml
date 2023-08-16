@@ -24,25 +24,25 @@ sites:
       - 404
       - 401
   - name: Club Penguin Atake - Website
-    url: https://cpatake.dink.cf/
+    url: https://cpatake.boo/
   - name: Club Penguin Atake - AS1
-    url: https://as1-cpa.dink.cf/
+    url: https://as1.cpatake.boo/
   - name: Club Penguin Atake - AS2
-    url: https://as2-cpa.dink.cf/
+    url: https://as2.cpatake.boo/
   - name: Club Penguin Atake - AS3
-    url: https://as3-cpa.dink.cf/
-  - name: Club Penguin Atake - Client 4.1
-    url: https://butterfly-cpa.dink.cf/
+    url: https://as3.cpatake.boo/
+  - name: Club Penguin Atake - Client 4.3
+    url: https://butterfly.cpatake.boo/
     headers:
     - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
   - name: Club Penguin Atake - Web Client
-    url: https://web.cpatake.dink.cf/
+    url: https://web.cpatake.boo/
   - name: Club Penguin Atake TV
-    url: https://cpataketv.dink.cf/
+    url: https://tv.cpatake.boo/
   - name: Club Penguin Atake Radio
-    url: https://www.cpatake.dink.cf/radio/
+    url: https://www.cpatake.boo/radio/
   - name: Club Penguin Atake E-Reader
-    url: https://www.cpatake.dink.cf/reader/
+    url: https://www.cpatake.boo/reader/
   - name: Club Penguin Atake TV Video CDN
     url: https://cdn.cpataketv.dink.cf/
     expectedStatusCodes:
