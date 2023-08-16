@@ -1,7 +1,7 @@
 url: https://butterfly-cpa.dink.cf/
-status: up
-code: 200
-responseTime: 890
-lastUpdated: 2023-08-16T18:25:52.500Z
+status: down
+code: 503
+responseTime: 294
+lastUpdated: 2023-08-16T18:48:00.827Z
 startTime: Sat May 27 2023 17:08:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
