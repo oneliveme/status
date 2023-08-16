@@ -1,7 +1,7 @@
 url: https://as2-cpa.dink.cf/
-status: up
-code: 200
-responseTime: 271
-lastUpdated: 2023-08-16T18:25:50.688Z
+status: down
+code: 503
+responseTime: 105
+lastUpdated: 2023-08-16T18:47:55.785Z
 startTime: Mon Jul 25 2022 16:11:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
