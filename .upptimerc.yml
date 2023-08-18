@@ -31,7 +31,7 @@ sites:
     url: https://as2.cpatake.boo/
   - name: Club Penguin Atake - AS3
     url: https://as3.cpatake.boo/
-  - name: Club Penguin Atake - Client 4.3
+  - name: Club Penguin Atake - Client 5.0
     url: https://butterfly.cpatake.boo/
     headers:
     - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
