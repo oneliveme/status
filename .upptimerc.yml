@@ -42,7 +42,7 @@ sites:
   - name: Club Penguin Atake Radio
     url: https://www.cpatake.boo/radio/
   - name: Club Penguin Atake E-Reader
-    url: https://www.cpatake.boo/reader/
+    url: https://www.cpatake.boo/e-reader/
   - name: Club Penguin Atake TV Video CDN
     url: https://cdn.cpataketv.dink.cf/
     expectedStatusCodes:
