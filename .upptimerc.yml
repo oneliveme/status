@@ -44,7 +44,7 @@ sites:
   - name: Club Penguin Atake E-Reader
     url: https://www.cpatake.boo/e-reader/
   - name: Club Penguin Atake TV Video CDN
-    url: https://cdn.cpataketv.dink.cf/
+    url: https://cdn.tv.cpatake.boo/
     expectedStatusCodes:
       - 200
       - 403
