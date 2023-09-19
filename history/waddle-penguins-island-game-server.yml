@@ -1,7 +1,7 @@
 url: $GAMESERVER_URL
 status: up
 code: 200
-responseTime: 171
-lastUpdated: 2023-09-18T23:09:16.687Z
+responseTime: 60
+lastUpdated: 2023-09-19T23:08:51.855Z
 startTime: 2022-07-25T16:11:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
