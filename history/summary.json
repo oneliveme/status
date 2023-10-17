@@ -42,18 +42,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
     "status": "up",
-    "uptime": "95.15%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "97.99%",
-    "uptimeMonth": "87.93%",
-    "uptimeYear": "94.04%",
+    "uptime": "95.13%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "87.94%",
+    "uptimeYear": "94.01%",
     "time": 656,
     "timeDay": 209,
     "timeWeek": 226,
     "timeMonth": 282,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2023-10-17": 41,
+      "2023-10-17": 35,
       "2023-10-13": 162,
       "2023-10-07": 490,
       "2023-10-05": 370,
@@ -103,7 +103,8 @@
       "2023-06-10": 1292,
       "2023-06-09": 460,
       "2023-06-08": 606,
-      "2023-06-07": 44
+      "2023-06-07": 44,
+      "2023-06-06": 174
     }
   },
   {
@@ -643,11 +644,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cpatake.boo.ico",
     "slug": "club-penguin-atake-e-reader",
     "status": "up",
-    "uptime": "66.64%",
+    "uptime": "66.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.64%",
+    "uptimeYear": "66.65%",
     "time": 92,
     "timeDay": 79,
     "timeWeek": 87,
@@ -691,10 +692,10 @@
     "url": "https://cdn.tv.cpatake.boo/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tv.cpatake.boo.ico",
     "slug": "club-penguin-atake-tv-video-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.81%",
     "time": 3235,
@@ -703,6 +704,7 @@
     "timeMonth": 82,
     "timeYear": 3235,
     "dailyMinutesDown": {
+      "2023-10-17": 1,
       "2023-05-28": 17,
       "2023-03-23": 21,
       "2023-02-09": 612,
@@ -713,7 +715,7 @@
       "2023-02-04": 616,
       "2023-02-03": 545,
       "2023-02-02": 627,
-      "2023-02-01": 220
+      "2023-02-01": 195
     }
   },
   {
@@ -721,10 +723,10 @@
     "url": "https://cdn.media-radio.cpatake.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.media-radio.cpatake.tk.ico",
     "slug": "club-penguin-atake-radio-audio-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
@@ -732,6 +734,8 @@
     "timeWeek": 151,
     "timeMonth": 156,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-17": 1
+    }
   }
 ]
