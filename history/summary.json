@@ -41,12 +41,12 @@
     "url": "https://api.waddlepenguins.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
-    "status": "up",
-    "uptime": "95.13%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "98.05%",
+    "status": "down",
+    "uptime": "95.16%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "98.04%",
     "uptimeMonth": "87.94%",
-    "uptimeYear": "94.01%",
+    "uptimeYear": "94.04%",
     "time": 656,
     "timeDay": 209,
     "timeWeek": 226,
@@ -103,8 +103,7 @@
       "2023-06-10": 1292,
       "2023-06-09": 460,
       "2023-06-08": 606,
-      "2023-06-07": 44,
-      "2023-06-06": 174
+      "2023-06-07": 44
     }
   },
   {
@@ -644,11 +643,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cpatake.boo.ico",
     "slug": "club-penguin-atake-e-reader",
     "status": "up",
-    "uptime": "66.65%",
+    "uptime": "66.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "66.65%",
+    "uptimeYear": "66.66%",
     "time": 92,
     "timeDay": 79,
     "timeWeek": 87,
@@ -694,9 +693,9 @@
     "slug": "club-penguin-atake-tv-video-cdn",
     "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "98.81%",
     "time": 3235,
     "timeDay": 58,
@@ -704,7 +703,7 @@
     "timeMonth": 82,
     "timeYear": 3235,
     "dailyMinutesDown": {
-      "2023-10-17": 1,
+      "2023-10-17": 25,
       "2023-05-28": 17,
       "2023-03-23": 21,
       "2023-02-09": 612,
@@ -724,18 +723,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.media-radio.cpatake.tk.ico",
     "slug": "club-penguin-atake-radio-audio-cdn",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 156,
     "timeDay": 59,
     "timeWeek": 151,
     "timeMonth": 156,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2023-10-17": 1
+      "2023-10-17": 25
     }
   }
 ]
