@@ -1,7 +1,7 @@
 url: https://cdn.tv.cpatake.boo/
-status: up
-code: 403
-responseTime: 49
-lastUpdated: 2023-10-22T23:08:42.303Z
+status: down
+code: 500
+responseTime: 89
+lastUpdated: 2023-10-23T12:58:37.323Z
 startTime: 2022-10-21T16:20:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
