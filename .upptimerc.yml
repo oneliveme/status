@@ -14,6 +14,10 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Global Assets
+    url: https://assets.fullmoon.dev/
+  - name: Global CDN
+    url: https://cdn.fullmoon.dev/
   - name: Waddle Penguins Island - Website
     url: https://waddlepenguins.me/
   - name: Waddle Penguins Island - API
