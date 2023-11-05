@@ -59,11 +59,11 @@ sites:
       - 403
       - 401
   - name: Celestial Penguin - Website
-    url: https://cdn.fullmoon.dev/
+    url: https://www.celestialpenguin.net/
   - name: Celestial Penguin - Play Page
-    url: https://cdn.fullmoon.dev/
+    url: https://play.celestialpenguin.net/
   - name: Celestial Penguin - Media Server
-    url: https://cdn.fullmoon.dev/
+    url: https://media.celestialpenguin.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -72,15 +72,15 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.fullmoon.dev/images/moonlight/square.png
   name: Moonlight Status
-  introTitle: "Welcome to the Status page of all Moonlight Studios services."
-  introMessage: Check the status of your favourite services here.
+  introTitle: "You and your world. Always together."
+  introMessage: Check the status of our services here.
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Home
       href: https://www.fullmoon.dev/?ref=status
+    - title: Help
+      href: https://www.fullmoon.dev/help/?ref=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
