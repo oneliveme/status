@@ -761,18 +761,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.celestialpenguin.net.ico",
     "slug": "celestial-penguin-media-server",
     "status": "down",
-    "uptime": "89.63%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "89.63%",
-    "uptimeMonth": "89.63%",
-    "uptimeYear": "89.63%",
+    "uptime": "81.39%",
+    "uptimeDay": "81.39%",
+    "uptimeWeek": "81.39%",
+    "uptimeMonth": "81.39%",
+    "uptimeYear": "81.39%",
     "time": 132,
     "timeDay": 132,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-11-05": 1
+      "2023-11-05": 2
     }
   }
 ]
