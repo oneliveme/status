@@ -151,18 +151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "91.38%",
-    "uptimeMonth": "87.22%",
-    "uptimeYear": "96.71%",
+    "uptime": "97.50%",
+    "uptimeDay": "87.74%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "87.04%",
+    "uptimeYear": "96.70%",
     "time": 614,
     "timeDay": 301,
     "timeWeek": 301,
     "timeMonth": 237,
     "timeYear": 604,
     "dailyMinutesDown": {
-      "2023-11-19": 97,
+      "2023-11-20": 30,
+      "2023-11-19": 146,
       "2023-11-18": 270,
       "2023-11-17": 432,
       "2023-11-16": 53,
@@ -252,7 +253,7 @@
     "timeDay": 184,
     "timeWeek": 169,
     "timeMonth": 169,
-    "timeYear": 518,
+    "timeYear": 517,
     "dailyMinutesDown": {
       "2023-07-21": 892,
       "2023-07-20": 1440,
@@ -342,7 +343,7 @@
     "timeDay": 190,
     "timeWeek": 235,
     "timeMonth": 262,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2023-10-25": 114,
       "2023-08-16": 1139,
@@ -384,8 +385,7 @@
       "2022-12-05": 284,
       "2022-11-29": 23,
       "2022-11-28": 118,
-      "2022-11-23": 199,
-      "2022-11-20": 27
+      "2022-11-23": 199
     }
   },
   {
@@ -403,7 +403,7 @@
     "timeDay": 240,
     "timeWeek": 290,
     "timeMonth": 269,
-    "timeYear": 367,
+    "timeYear": 368,
     "dailyMinutesDown": {
       "2023-10-25": 114,
       "2023-08-16": 1139,
@@ -444,8 +444,7 @@
       "2022-12-05": 284,
       "2022-11-29": 23,
       "2022-11-28": 118,
-      "2022-11-23": 197,
-      "2022-11-20": 26
+      "2022-11-23": 197
     }
   },
   {
@@ -504,8 +503,7 @@
       "2022-12-05": 284,
       "2022-11-29": 23,
       "2022-11-28": 118,
-      "2022-11-23": 193,
-      "2022-11-20": 24
+      "2022-11-23": 193
     }
   },
   {
@@ -544,7 +542,7 @@
     "timeDay": 210,
     "timeWeek": 248,
     "timeMonth": 243,
-    "timeYear": 154,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2023-08-16": 272,
       "2023-05-27": 246,
@@ -650,7 +648,7 @@
     "timeDay": 109,
     "timeWeek": 159,
     "timeMonth": 100,
-    "timeYear": 3171,
+    "timeYear": 3175,
     "dailyMinutesDown": {
       "2023-10-23": 30,
       "2023-10-17": 31,
