@@ -150,9 +150,9 @@
     "url": "https://api.waddlepenguins.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "51.24%",
+    "uptimeDay": "53.38%",
     "uptimeWeek": "83.63%",
     "uptimeMonth": "85.44%",
     "uptimeYear": "96.90%",
@@ -162,6 +162,7 @@
     "timeMonth": 236,
     "timeYear": 602,
     "dailyMinutesDown": {
+      "2023-11-21": 0,
       "2023-11-20": 733,
       "2023-11-19": 146,
       "2023-11-18": 270,
@@ -202,7 +203,7 @@
       "2023-08-13": 909,
       "2023-08-12": 262,
       "2023-08-04": 515,
-      "2023-08-01": 263
+      "2023-08-01": 248
     }
   },
   {
