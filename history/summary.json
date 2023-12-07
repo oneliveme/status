@@ -155,7 +155,7 @@
     "uptimeYear": "97.04%",
     "time": 594,
     "timeDay": 188,
-    "timeWeek": 302,
+    "timeWeek": 305,
     "timeMonth": 279,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -685,19 +685,19 @@
     "url": "https://play.celestialpenguin.net/",
     "icon": "https://icons.duckduckgo.com/ip3/play.celestialpenguin.net.ico",
     "slug": "celestial-penguin-play-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 450,
-    "timeWeek": 495,
-    "timeMonth": 519,
-    "timeYear": 488,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 492,
+    "timeDay": 497,
+    "timeWeek": 509,
+    "timeMonth": 523,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2023-12-07": 1
+      "2023-12-07": 18
     }
   },
   {
