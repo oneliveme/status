@@ -149,17 +149,17 @@
     "slug": "waddle-penguins-island-api",
     "status": "up",
     "uptime": "98.00%",
-    "uptimeDay": "94.78%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "90.74%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "90.76%",
     "uptimeYear": "97.24%",
     "time": 581,
     "timeDay": 185,
-    "timeWeek": 309,
+    "timeWeek": 311,
     "timeMonth": 269,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2023-12-09": 75,
+      "2023-12-09": 66,
       "2023-12-06": 72,
       "2023-12-02": 199,
       "2023-11-30": 15,
@@ -198,7 +198,8 @@
       "2023-09-24": 41,
       "2023-09-23": 978,
       "2023-09-22": 1248,
-      "2023-09-16": 624
+      "2023-09-16": 624,
+      "2023-09-10": 20
     }
   },
   {
@@ -276,7 +277,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpatake.boo.ico",
     "slug": "club-penguin-atake-website",
     "status": "up",
-    "uptime": "95.39%",
+    "uptime": "95.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -685,18 +686,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.celestialpenguin.net.ico",
     "slug": "celestial-penguin-play-page",
     "status": "down",
-    "uptime": "94.81%",
+    "uptime": "94.26%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.96%",
-    "uptimeMonth": "94.24%",
-    "uptimeYear": "94.81%",
+    "uptimeWeek": "72.12%",
+    "uptimeMonth": "93.58%",
+    "uptimeYear": "94.26%",
     "time": 499,
     "timeDay": 604,
     "timeWeek": 519,
     "timeMonth": 526,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2023-12-09": 784,
+      "2023-12-09": 1071,
       "2023-12-08": 1440,
       "2023-12-07": 300
     }
@@ -706,17 +707,19 @@
     "url": "https://media.celestialpenguin.net/",
     "icon": "https://icons.duckduckgo.com/ip3/media.celestialpenguin.net.ico",
     "slug": "celestial-penguin-media-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 529,
-    "timeWeek": 451,
-    "timeMonth": 505,
-    "timeYear": 479,
-    "dailyMinutesDown": {}
+    "time": 471,
+    "timeDay": 340,
+    "timeWeek": 421,
+    "timeMonth": 494,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2023-12-09": 1
+    }
   }
 ]
