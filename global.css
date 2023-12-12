@@ -1,7 +1,6 @@
-@import url("https://cdn.fullmoon.dev/fonts/redhatdisplay/stylesheet.css");
 body {
   margin: 0;
-  font-family: "RedHatDisplay-Variable", -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell,
+  font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.5;
   padding-bottom: 2.5rem;
