@@ -1,7 +1,7 @@
 url: https://butterfly.cpatake.boo/
-status: up
-code: 200
-responseTime: 287
-lastUpdated: 2023-12-13T23:09:51.868Z
+status: down
+code: 503
+responseTime: 449
+lastUpdated: 2023-12-14T19:53:17.041Z
 startTime: 2023-12-11T06:54:35.372Z
 generator: Upptime <https://github.com/upptime/upptime>
