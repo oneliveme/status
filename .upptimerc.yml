@@ -76,6 +76,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fullmoon.dev
   # baseUrl: /your-repo-name
+  favicon: https://cdn.fullmoon.dev/images/moonlight/square.png
   logoUrl: https://cdn.fullmoon.dev/images/moonlight/square.png
   name: Moonlight Status
   introTitle: "You and your world. Always together."
