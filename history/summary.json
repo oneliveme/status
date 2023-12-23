@@ -147,18 +147,19 @@
     "url": "https://api.waddlepenguins.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "98.52%",
-    "uptimeWeek": "92.12%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "92.11%",
     "uptimeMonth": "95.19%",
-    "uptimeYear": "97.58%",
-    "time": 583,
+    "uptimeYear": "97.59%",
+    "time": 595,
     "timeDay": 253,
     "timeWeek": 2378,
     "timeMonth": 502,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2023-12-23": 0,
       "2023-12-22": 21,
       "2023-12-19": 17,
       "2023-12-18": 756,
@@ -198,7 +199,7 @@
       "2023-10-04": 1,
       "2023-10-03": 1368,
       "2023-10-02": 30,
-      "2023-10-01": 53
+      "2023-10-01": 27
     }
   },
   {
@@ -276,7 +277,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cpatake.boo.ico",
     "slug": "club-penguin-atake-website",
     "status": "up",
-    "uptime": "95.50%",
+    "uptime": "95.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.84%",
