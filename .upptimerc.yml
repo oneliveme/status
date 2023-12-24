@@ -1,5 +1,5 @@
 # Change these first
-owner: MoonlightStudiosInt # Your GitHub organization or username, where this repository lives
+owner: fullmoondev # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
@@ -76,8 +76,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fullmoon.dev
   # baseUrl: /your-repo-name
-  favicon: https://cdn.fullmoon.dev/images/moonlight/square.png
-  logoUrl: https://cdn.fullmoon.dev/images/moonlight/square.png
+  favicon: https://cdn.fullmoon.dev/images/moonlight/social-alt.jpg
+  logoUrl: https://cdn.fullmoon.dev/images/moonlight/social-alt.jpg
   name: Moonlight Status
   introTitle: "You and your world. Always together."
   introMessage: Check the status of our services here.
