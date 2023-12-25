@@ -1,7 +1,7 @@
 url: https://cpatake.boo/
-status: up
-code: 200
-responseTime: 250
-lastUpdated: 2023-12-24T23:09:34.640Z
+status: down
+code: 429
+responseTime: 82
+lastUpdated: 2023-12-25T16:21:17.395Z
 startTime: 2022-07-25T16:11:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
