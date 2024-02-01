@@ -14,6 +14,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Store for Windows Phone
+    url: https://apollo.fullmoon.dev/
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Global Assets
     url: https://assets.fullmoon.dev/
   - name: Global CDN
@@ -64,6 +69,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
