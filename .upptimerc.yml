@@ -14,11 +14,10 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Store for Windows Phone
+  - name: Fullmoon Store Assets
     url: https://apollo.fullmoon.dev/
-    expectedStatusCodes:
-      - 200
-      - 404
+  - name: Fullmoon Store CDN
+    url: https://cdn.apollo.fullmoon.dev/
   - name: Global Assets
     url: https://assets.fullmoon.dev/
   - name: Global CDN
