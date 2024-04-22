@@ -60,6 +60,23 @@ sites:
       - 200
       - 403
       - 401
+  - name: Club Penguin Atake Legacy CDN
+    url: https://legacy.cdn.cpatake.tk/
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Club Penguin Atake Vanilla CDN
+    url: https://vanilla.cdn.cpatake.tk/
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Club Penguin Atake Antique CDN
+    url: https://antique.cdn.cpatake.tk/
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Club Penguin Atake New York Server 1
+    url: https://us-nyc-1.cpatake.boo:8181/
   - name: Celestial Penguin - Website
     url: https://www.celestialpenguin.net/
   - name: Celestial Penguin - Play Page
