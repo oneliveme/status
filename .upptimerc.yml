@@ -54,29 +54,33 @@ sites:
     url: https://web.cpatake.boo/
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.boo/
-  - name: Club Penguin Atake TV Video CDN
+  - name: Club Penguin Atake TV - Video CDN
     url: https://cdn.tv.cpatake.boo/
     expectedStatusCodes:
       - 200
       - 403
       - 401
-  - name: Club Penguin Atake Legacy CDN
+  - name: Club Penguin Atake - Legacy CDN
     url: https://legacy.cdn.cpatake.tk/
     expectedStatusCodes:
       - 200
       - 403
-  - name: Club Penguin Atake Vanilla CDN
+  - name: Club Penguin Atake - Vanilla CDN
     url: https://vanilla.cdn.cpatake.tk/
     expectedStatusCodes:
       - 200
       - 403
-  - name: Club Penguin Atake Antique CDN
+  - name: Club Penguin Atake - Antique CDN
     url: https://antique.cdn.cpatake.tk/
     expectedStatusCodes:
       - 200
       - 403
-  - name: Club Penguin Atake New York Server 1
-    url: https://us-nyc-1.cpatake.boo:8181/
+  - name: Club Penguin Atake - Experimental Penguins
+    url: https://ep.cpatake.boo/
+  - name: Club Penguin Atake - Penguin Chat
+    url: https://pc.cpatake.boo/
+  - name: Club Penguin Atake - Penguin Chat 3
+    url: https://pc3.cpatake.boo/
   - name: Celestial Penguin - Website
     url: https://www.celestialpenguin.net/
   - name: Celestial Penguin - Play Page
