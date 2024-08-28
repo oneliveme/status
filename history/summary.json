@@ -548,19 +548,19 @@
     "url": "https://legacy.cdn.cpatake.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/legacy.cdn.cpatake.tk.ico",
     "slug": "club-penguin-atake-legacy-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 347,
-    "timeWeek": 517,
-    "timeMonth": 503,
-    "timeYear": 389,
+    "time": 420,
+    "timeDay": 2436,
+    "timeWeek": 1018,
+    "timeMonth": 633,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2024-08-28": 1
+      "2024-08-28": 7
     }
   },
   {
