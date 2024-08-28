@@ -566,19 +566,19 @@
     "url": "https://vanilla.cdn.cpatake.tk/",
     "icon": "https://icons.duckduckgo.com/ip3/vanilla.cdn.cpatake.tk.ico",
     "slug": "club-penguin-atake-vanilla-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 560,
-    "timeWeek": 389,
-    "timeMonth": 642,
-    "timeYear": 317,
+    "time": 319,
+    "timeDay": 569,
+    "timeWeek": 412,
+    "timeMonth": 640,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-08-28": 1
+      "2024-08-28": 7
     }
   },
   {
