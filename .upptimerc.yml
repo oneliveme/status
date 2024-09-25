@@ -14,6 +14,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Profile API
+    url: https://profile.live.net.co/
+    expectedStatusCodes:
+      - 200
+      - 404
+  - name: Online Live Service API
+    url: https://ols.live.net.co/
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Fullmoon Store Assets
     url: https://apollo.fullmoon.dev/
   - name: Fullmoon Store Ruby CDN
