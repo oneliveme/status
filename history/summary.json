@@ -76,19 +76,19 @@
     "url": "https://profile.live.net.co/",
     "icon": "https://icons.duckduckgo.com/ip3/profile.live.net.co.ico",
     "slug": "profile-api",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 511,
-    "timeDay": 552,
-    "timeWeek": 525,
-    "timeMonth": 511,
-    "timeYear": 511,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 479,
+    "timeDay": 429,
+    "timeWeek": 478,
+    "timeMonth": 479,
+    "timeYear": 479,
     "dailyMinutesDown": {
-      "2024-10-05": 14
+      "2024-10-05": 0
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://ols.live.net.co/",
     "icon": "https://icons.duckduckgo.com/ip3/ols.live.net.co.ico",
     "slug": "online-live-service-api",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
-    "time": 518,
-    "timeDay": 639,
-    "timeWeek": 547,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 485,
+    "timeDay": 495,
+    "timeWeek": 499,
+    "timeMonth": 485,
+    "timeYear": 485,
     "dailyMinutesDown": {
-      "2024-10-05": 14
+      "2024-10-05": 0
     }
   },
   {
