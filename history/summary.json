@@ -136,18 +136,16 @@
     "slug": "fullmoon-store-ruby-cdn",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
     "timeDay": 165,
     "timeWeek": 212,
     "timeMonth": 226,
     "timeYear": 157,
-    "dailyMinutesDown": {
-      "2024-10-19": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Global Assets",
@@ -222,18 +220,19 @@
     "url": "https://api.waddlepenguins.me/",
     "icon": "https://icons.duckduckgo.com/ip3/api.waddlepenguins.me.ico",
     "slug": "waddle-penguins-island-api",
-    "status": "up",
-    "uptime": "95.56%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "status": "down",
+    "uptime": "95.57%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.58%",
-    "uptimeYear": "90.07%",
+    "uptimeYear": "90.08%",
     "time": 518,
     "timeDay": 328,
     "timeWeek": 255,
     "timeMonth": 485,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2024-10-19": 0,
       "2024-10-13": 18,
       "2024-10-12": 42,
       "2024-10-11": 17,
@@ -323,7 +322,7 @@
       "2023-11-03": 161,
       "2023-11-01": 24,
       "2023-10-31": 923,
-      "2023-10-30": 472
+      "2023-10-30": 418
     }
   },
   {
