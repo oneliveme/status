@@ -134,19 +134,19 @@
     "url": "https://ruby.cdn.apollo.fullmoon.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/ruby.cdn.apollo.fullmoon.dev.ico",
     "slug": "fullmoon-store-ruby-cdn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 157,
-    "timeDay": 162,
-    "timeWeek": 218,
-    "timeMonth": 227,
+    "timeDay": 165,
+    "timeWeek": 212,
+    "timeMonth": 226,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-10-19": 0
+      "2024-10-19": 12
     }
   },
   {
@@ -232,7 +232,7 @@
     "timeDay": 328,
     "timeWeek": 255,
     "timeMonth": 485,
-    "timeYear": 533,
+    "timeYear": 534,
     "dailyMinutesDown": {
       "2024-10-13": 18,
       "2024-10-12": 42,
