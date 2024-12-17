@@ -497,18 +497,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cpatake.boo.ico",
     "slug": "club-penguin-atake-app",
     "status": "down",
-    "uptime": "0.88%",
-    "uptimeDay": "0.88%",
-    "uptimeWeek": "0.88%",
-    "uptimeMonth": "0.88%",
-    "uptimeYear": "0.88%",
+    "uptime": "0.12%",
+    "uptimeDay": "0.12%",
+    "uptimeWeek": "0.12%",
+    "uptimeMonth": "0.12%",
+    "uptimeYear": "0.12%",
     "time": 133,
     "timeDay": 133,
     "timeWeek": 133,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-12-17": 1
+      "2024-12-17": 2
     }
   },
   {
