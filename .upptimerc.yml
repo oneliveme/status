@@ -16,17 +16,13 @@ sites:
       - 401
   - name: Profile API
     url: https://profile.live.net.co/
-    expectedStatusCodes:
-      - 200
-      - 404
   - name: Online Live Service API
     url: https://ols.live.net.co/
-    expectedStatusCodes:
-      - 200
-      - 404
-  - name: Fullmoon Store Assets
+  - name: Live Store Assets
     url: https://apollo.fullmoon.dev/
-  - name: Fullmoon Store Ruby CDN
+  - name: Live Store API
+    url: https://store-api.live.net.co/apps
+  - name: Live Store Ruby CDN
     url: https://ruby.cdn.apollo.fullmoon.dev/
     expectedStatusCodes:
       - 200
@@ -35,7 +31,7 @@ sites:
   - name: Global Assets
     url: https://assets.fullmoon.dev/
   - name: Global CDN
-    url: https://cdn.fullmoon.dev/
+    url: https://c.live.net.co/
   - name: Waddle Penguins Island - Website
     url: https://waddlepenguins.me/
   - name: Waddle Penguins Island - API
@@ -44,6 +40,12 @@ sites:
     url: $GAMESERVER_URL
   - name: Waddle Penguins Island - Content
     url: https://cdn.waddlepenguins.me/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
+  - name: Waddle Penguins Island - Content CDN
+    url: https://wpi2.cdn.dink.cf/
     expectedStatusCodes:
       - 200
       - 403
@@ -58,10 +60,6 @@ sites:
     url: https://as3.cpatake.boo/
   - name: Club Penguin Atake - App
     url: https://app.cpatake.boo/
-  - name: Club Penguin Atake - Client 5 Series
-    url: https://butterfly.cpatake.boo/
-    headers:
-    - "User-Agent: $CLUBPENGUINATAKE_CLIENTBUTTERFLY_STATUSAGENT"
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.boo/
   - name: Club Penguin Atake TV - Video CDN
@@ -69,7 +67,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-      - 401
   - name: Club Penguin Atake - Legacy CDN
     url: https://legacy.cdn.cpatake.tk/
     expectedStatusCodes:
@@ -91,19 +88,6 @@ sites:
     url: https://pc.cpatake.boo/
   - name: Club Penguin Atake - Penguin Chat 3
     url: https://pc3.cpatake.boo/
-  - name: Celestial Penguin - Website
-    url: https://www.celestialpenguin.net/
-  - name: Celestial Penguin - Play Page
-    url: https://play.celestialpenguin.net/
-    expectedStatusCodes:
-      - 200
-      - 403
-  - name: Celestial Penguin - Media Server
-    url: https://media.celestialpenguin.net/
-    expectedStatusCodes:
-      - 200
-      - 403
-      
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
