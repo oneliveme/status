@@ -62,6 +62,8 @@ sites:
     url: https://app.cpatake.boo/
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.boo/
+  - name: Club Penguin Atake Web Services
+    url: https://webservice.cpatake.boo/
   - name: Club Penguin Atake TV - Video CDN
     url: https://cdn.tv.cpatake.boo/
     expectedStatusCodes:
