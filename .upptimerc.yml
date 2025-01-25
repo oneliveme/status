@@ -21,7 +21,7 @@ sites:
   - name: Live Store Assets
     url: https://apollo.fullmoon.dev/
   - name: Live Store API
-    url: https://store-api.live.net.co/apps
+    url: https://store-api.live.net.co/info
   - name: Live Store Ruby CDN
     url: https://ruby.cdn.apollo.fullmoon.dev/
     expectedStatusCodes:
