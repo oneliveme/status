@@ -393,19 +393,19 @@
     "url": "https://wpi2.cdn.dink.cf/",
     "icon": "https://icons.duckduckgo.com/ip3/wpi2.cdn.dink.cf.ico",
     "slug": "waddle-penguins-island-content-cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 225,
-    "timeWeek": 303,
-    "timeMonth": 350,
-    "timeYear": 359,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 358,
+    "timeDay": 245,
+    "timeWeek": 299,
+    "timeMonth": 347,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-03-08": 1
+      "2025-03-08": 11
     }
   },
   {
