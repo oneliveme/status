@@ -15,9 +15,9 @@ sites:
       - 200
       - 401
   - name: Profile API
-    url: https://profile.live.net.co/
+    url: https://profile.live.net.co/info
   - name: Online Live Service API
-    url: https://ols.live.net.co/
+    url: https://ols.live.net.co/info
   - name: Live Store Assets
     url: https://apollo.fullmoon.dev/
   - name: Live Store API
