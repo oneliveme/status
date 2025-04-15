@@ -90,6 +90,8 @@ sites:
     url: https://pc.cpatake.boo/
   - name: Club Penguin Atake - Penguin Chat 3
     url: https://pc3.cpatake.boo/
+  - name: Club Penguin Atake - Profile
+    url: https://profile.cpatake.boo/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
