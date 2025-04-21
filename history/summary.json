@@ -257,9 +257,9 @@
     "slug": "waddle-penguins-island-api",
     "status": "down",
     "uptime": "96.70%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.40%",
+    "uptimeDay": "96.67%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.29%",
     "uptimeYear": "95.81%",
     "time": 508,
     "timeDay": 376,
@@ -267,7 +267,8 @@
     "timeMonth": 260,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-04-20": 0,
+      "2025-04-21": 47,
+      "2025-04-20": 1,
       "2025-04-09": 27,
       "2025-04-07": 29,
       "2025-04-05": 22,
@@ -332,8 +333,7 @@
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
-      "2024-04-22": 1440,
-      "2024-04-21": 1440
+      "2024-04-22": 1440
     }
   },
   {
@@ -785,11 +785,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.cpatake.boo.ico",
     "slug": "club-penguin-atake-profile",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.32%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 7241,
     "timeDay": 383,
     "timeWeek": 7241,
