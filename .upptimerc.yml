@@ -63,7 +63,7 @@ sites:
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.boo/
   - name: Club Penguin Atake Web Services
-    url: https://webservice.cpatake.boo/
+    url: https://usmo-cfc.cpatake.boo
   - name: Club Penguin Atake TV - Video CDN
     url: https://cdn.tv.cpatake.boo/
     expectedStatusCodes:
