@@ -14,10 +14,16 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: One Live ID Service
+    url: https://id.live.net.co/
   - name: Profile API
     url: https://profile.live.net.co/info
   - name: Online Live Service API
     url: https://ols.live.net.co/info
+  - name: Live Store Website
+    url: https://www.fullmoon.dev/apollo/
+  - name: Live Store Dev Center
+    url: https://store-dev.live.net.co/
   - name: Live Store Assets
     url: https://apollo.fullmoon.dev/
   - name: Live Store API
@@ -27,31 +33,19 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-      - 401
+      - 404
+  - name: Live Store CDN1
+    url: https://livestore1.cdn.dink.cf/
+    expectedStatusCodes:
+      - 200
+      - 403
+      - 404
   - name: Global Assets
     url: https://assets.fullmoon.dev/
   - name: Global CDN
-    url: https://c.live.net.co/
-  - name: Waddle Penguins Island - Website
-    url: https://waddlepenguins.me/
-  - name: Waddle Penguins Island - API
-    url: https://api.waddlepenguins.me/
-  - name: Waddle Penguins Island - Game Server
-    url: $GAMESERVER_URL
-  - name: Waddle Penguins Island - Content
-    url: https://cdn.waddlepenguins.me/
-    expectedStatusCodes:
-      - 200
-      - 403
-      - 404
-  - name: Waddle Penguins Island - Content CDN
-    url: https://wpi2.cdn.dink.cf/
-    expectedStatusCodes:
-      - 200
-      - 403
-      - 404
+    url: https://edge.live.net.co/
   - name: Club Penguin Atake - Website
-    url: https://cpatake.boo/
+    url: https://www.cpatake.boo/
   - name: Club Penguin Atake - AS1
     url: https://as1.cpatake.boo/
   - name: Club Penguin Atake - AS2
