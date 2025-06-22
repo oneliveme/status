@@ -1,7 +1,7 @@
 url: https://store-dev.live.net.co/
-status: up
-code: 200
-responseTime: 633
-lastUpdated: 2025-06-21T23:13:35.997Z
+status: down
+code: 502
+responseTime: 6334
+lastUpdated: 2025-06-22T23:13:33.444Z
 startTime: 2025-05-31T11:02:26.906Z
 generator: Upptime <https://github.com/upptime/upptime>
