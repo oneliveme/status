@@ -1,7 +1,7 @@
 url: https://store-api.live.net.co/info
-status: down
-code: 404
-responseTime: 305
-lastUpdated: 2025-06-29T18:15:29.006Z
+status: up
+code: 200
+responseTime: 354
+lastUpdated: 2025-06-29T20:15:50.632Z
 startTime: 2024-12-23T23:25:42.370Z
 generator: Upptime <https://github.com/upptime/upptime>
