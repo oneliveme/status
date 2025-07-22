@@ -1,6 +1,6 @@
-# [📈 Live Status](https://status.dink.cf): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://status.fullmoon.dev): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Moonlight Studios](https://url.dink.cf/), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for One Live Interactive, powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/MoonlightStudiosInt/status/workflows/Uptime%20CI/badge.svg)](https://github.com/MoonlightStudiosInt/status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/MoonlightStudiosInt/status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/MoonlightStudiosInt/status/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -48,10 +48,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.dink.cf)
+[**Visit our status website →**](https://status.fullmoon.dev)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Moonlight Studios](https://url.dink.cf/)
+- Code: [MIT](./LICENSE) © One Live Interactive
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
