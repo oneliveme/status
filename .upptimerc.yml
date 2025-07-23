@@ -28,14 +28,14 @@ sites:
     url: https://apollo.fullmoon.dev/
   - name: Live Store API
     url: https://store-api.live.net.co/info
-  - name: Live Store Ruby CDN
-    url: https://ruby.cdn.apollo.fullmoon.dev/
+  - name: Live Store Legacy Ruby CDN
+    url: https://legacy.ls.olcdns.com/
     expectedStatusCodes:
       - 200
       - 403
       - 404
   - name: Live Store CDN1
-    url: https://livestore1.cdn.dink.cf/
+    url: https://pl1.ls.olcdns.com/
     expectedStatusCodes:
       - 200
       - 403
@@ -64,17 +64,17 @@ sites:
       - 200
       - 403
   - name: Club Penguin Atake - Legacy CDN
-    url: https://legacy.cdn.cpatake.tk/
+    url: https://legacy.cpa.olcdns.com/
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Vanilla CDN
-    url: https://vanilla.cdn.cpatake.tk/
+    url: https://vanilla.cpa.olcdns.com/
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Antique CDN
-    url: https://antique.cdn.cpatake.tk/
+    url: https://antique.cpa.olcdns.com/
     expectedStatusCodes:
       - 200
       - 403
@@ -92,7 +92,7 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: https://cdn.fullmoon.dev/images/moonlight/social-alt.jpg
   logoUrl: https://cdn.fullmoon.dev/images/moonlight/social-alt.jpg
-  name: Fullmoon Status
+  name: One Live Status
   introTitle: "You and your world. Always together."
   introMessage: Check the status of our services here.
   navbar:
