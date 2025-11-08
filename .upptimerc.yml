@@ -1,14 +1,14 @@
 # Change these first
-owner: fullmoondev # Your GitHub organization or username, where this repository lives
+owner: oneliveme # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.fullmoon.dev/
+    url: https://www.onelive.me/
   - name: Accounts
-    url: https://www.fullmoon.dev/accounts/
+    url: https://www.onelive.me/accounts/
   - name: Help Desk
-    url: https://www.fullmoon.dev/help/
+    url: https://www.onelive.me/help/
   - name: Protected
     url: https://protected.fullmoon.dev/
     expectedStatusCodes:
@@ -21,7 +21,7 @@ sites:
   - name: Online Live Service API
     url: https://ols.live.net.co/info
   - name: Live Store Website
-    url: https://www.fullmoon.dev/apollo/
+    url: https://store.live.net.co/
   - name: Live Store Dev Center
     url: https://store-dev.live.net.co/
   - name: Live Store Assets
@@ -57,7 +57,7 @@ sites:
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.boo/
   - name: Club Penguin Atake Web Services
-    url: https://usmo-cfc.cpatake.boo
+    url: https://de-cf.cpatake.boo
   - name: Club Penguin Atake Chat Services
     url: https://chat.cpatake.boo
   - name: Club Penguin Atake Profile Services
@@ -103,9 +103,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Home
-      href: https://www.fullmoon.dev/?ref=status
+      href: https://www.onelive.me/?ref=status
     - title: Help
-      href: https://www.fullmoon.dev/help/?ref=status
+      href: https://www.onelive.me/help/?ref=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
