@@ -1,7 +1,7 @@
 url: https://tv.cpatake.boo/
-status: up
-code: 200
-responseTime: 282
-lastUpdated: 2025-11-17T23:13:33.836Z
+status: down
+code: 500
+responseTime: 104
+lastUpdated: 2025-11-18T11:31:49.359Z
 startTime: 2022-07-25T16:11:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
