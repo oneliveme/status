@@ -1,7 +1,7 @@
 url: https://id.live.net.co/
-status: up
-code: 200
-responseTime: 273
-lastUpdated: 2025-11-17T23:13:26.031Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2025-11-18T11:31:27.421Z
 startTime: 2025-05-31T11:02:24.831Z
 generator: Upptime <https://github.com/upptime/upptime>
