@@ -1,7 +1,7 @@
 url: https://apollo.fullmoon.dev/
-status: up
-code: 200
-responseTime: 326
-lastUpdated: 2026-01-10T23:14:24.759Z
+status: down
+code: 503
+responseTime: 92
+lastUpdated: 2026-01-10T23:40:53.602Z
 startTime: 2024-12-23T23:25:41.989Z
 generator: Upptime <https://github.com/upptime/upptime>
