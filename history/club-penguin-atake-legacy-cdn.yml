@@ -1,7 +1,7 @@
 url: https://legacy.cpa.olcdns.com/
-status: up
-code: 403
-responseTime: 633
-lastUpdated: 2026-01-10T23:14:33.342Z
+status: down
+code: 503
+responseTime: 211
+lastUpdated: 2026-01-10T23:41:18.383Z
 startTime: 2024-04-22T21:40:05.258Z
 generator: Upptime <https://github.com/upptime/upptime>
