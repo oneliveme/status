@@ -73,10 +73,10 @@
     "url": "https://protected.fullmoon.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/protected.fullmoon.dev.ico",
     "slug": "protected",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 568,
@@ -85,6 +85,7 @@
     "timeMonth": 601,
     "timeYear": 578,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2025-11-18": 88,
       "2025-06-12": 107
     }
@@ -799,12 +800,12 @@
     "status": "up",
     "uptime": "98.41%",
     "uptimeDay": "91.89%",
-    "uptimeWeek": "95.44%",
+    "uptimeWeek": "95.52%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "98.41%",
     "time": 6209,
     "timeDay": 12342,
-    "timeWeek": 8607,
+    "timeWeek": 8433,
     "timeMonth": 7464,
     "timeYear": 6209,
     "dailyMinutesDown": {
