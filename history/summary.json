@@ -799,19 +799,19 @@
     "url": "https://profile.cpatake.boo",
     "icon": "https://icons.duckduckgo.com/ip3/profile.cpatake.boo.ico",
     "slug": "club-penguin-atake-profile-services",
-    "status": "up",
-    "uptime": "98.52%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "94.10%",
+    "status": "down",
+    "uptime": "98.53%",
+    "uptimeDay": "93.72%",
+    "uptimeWeek": "94.09%",
     "uptimeMonth": "95.43%",
-    "uptimeYear": "98.52%",
+    "uptimeYear": "98.53%",
     "time": 6388,
-    "timeDay": 7143,
+    "timeDay": 1560,
     "timeWeek": 10637,
     "timeMonth": 7916,
     "timeYear": 6388,
     "dailyMinutesDown": {
-      "2026-02-03": 40,
+      "2026-02-03": 41,
       "2026-02-02": 113,
       "2026-01-31": 32,
       "2026-01-30": 19,
@@ -863,8 +863,7 @@
       "2025-12-03": 24,
       "2025-12-02": 60,
       "2025-11-30": 38,
-      "2025-11-28": 32,
-      "2025-11-27": 22
+      "2025-11-28": 32
     }
   },
   {
