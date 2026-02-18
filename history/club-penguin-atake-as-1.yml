@@ -1,7 +1,7 @@
 url: https://as1.cpatake.boo/
-status: up
-code: 200
-responseTime: 330
-lastUpdated: 2026-02-17T23:23:44.379Z
+status: down
+code: 503
+responseTime: 125
+lastUpdated: 2026-02-18T17:36:06.251Z
 startTime: 2022-07-25T16:11:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
