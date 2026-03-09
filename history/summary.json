@@ -682,7 +682,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/de-cf.cpatake.boo.ico",
     "slug": "club-penguin-atake-web-services",
     "status": "up",
-    "uptime": "78.44%",
+    "uptime": "78.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.87%",
@@ -833,18 +833,19 @@
     "url": "https://profile.cpatake.boo",
     "icon": "https://icons.duckduckgo.com/ip3/profile.cpatake.boo.ico",
     "slug": "club-penguin-atake-profile-services",
-    "status": "up",
-    "uptime": "96.85%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "86.15%",
+    "status": "down",
+    "uptime": "96.87%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "87.03%",
     "uptimeMonth": "82.57%",
-    "uptimeYear": "96.85%",
+    "uptimeYear": "96.87%",
     "time": 7259,
     "timeDay": 1069,
     "timeWeek": 6431,
     "timeMonth": 9856,
     "timeYear": 7259,
     "dailyMinutesDown": {
+      "2026-03-09": 1,
       "2026-03-08": 78,
       "2026-03-07": 133,
       "2026-03-06": 332,
@@ -888,7 +889,7 @@
       "2026-01-24": 99,
       "2026-01-23": 18,
       "2026-01-22": 36,
-      "2026-01-21": 95
+      "2026-01-21": 35
     }
   },
   {
