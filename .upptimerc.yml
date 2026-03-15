@@ -5,8 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: Website
     url: https://www.onelive.me/
-  - name: Accounts
-    url: https://www.onelive.me/accounts/
   - name: Help Desk
     url: https://www.onelive.me/help/
   - name: Protected
@@ -88,6 +86,10 @@ sites:
     url: https://pc.cpatake.boo/
   - name: Club Penguin Atake - Penguin Chat 3
     url: https://pc3.cpatake.boo/
+  - name: CPI Remix - Web Service
+    url: https://ws.cpiremix.com/
+  - name: CPI Remix - Game Server
+    url: http://asap.cpiremix.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
