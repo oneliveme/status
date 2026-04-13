@@ -1214,7 +1214,7 @@
     "status": "down",
     "uptime": "80.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "32.97%",
+    "uptimeWeek": "32.95%",
     "uptimeMonth": "80.56%",
     "uptimeYear": "80.56%",
     "time": 405,
@@ -1223,7 +1223,7 @@
     "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-04-13": 686,
+      "2026-04-13": 687,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
