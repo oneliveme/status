@@ -44,48 +44,80 @@ sites:
     url: https://edge.live.net.co/
   - name: Club Penguin Atake - Website
     url: https://www.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake - AS1
     url: https://as1.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake - AS2
     url: https://as2.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake - AS3
     url: https://as3.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake - App
     url: https://app.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake TV
     url: https://tv.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake Web Services
     url: https://de-cf.cpatake.boo
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake Chat Services
     url: https://chat.cpatake.boo
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake Profile Services
     url: https://profile.cpatake.boo
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake TV - Video CDN
     url: https://cdn.tv.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Legacy CDN
     url: https://legacy.cpa.olcdns.com/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Vanilla CDN
     url: https://vanilla.cpa.olcdns.com/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Antique CDN
     url: https://antique.cpa.olcdns.com/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Experimental Penguins
     url: https://ep.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake - Penguin Chat
     url: https://pc.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: Club Penguin Atake - Penguin Chat 3
     url: https://pc3.cpatake.boo/
+    headers:
+      User-Agent: ClubPenguinAtakeApp/STATUSCHECK
   - name: CPI Remix - Web Service
     url: https://ws.cpiremix.com/
   - name: CPI Remix - Game Server
