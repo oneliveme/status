@@ -66,8 +66,8 @@ sites:
     url: https://tv.cpatake.boo/
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
-  - name: Club Penguin Atake Web Services
-    url: https://de-cf.cpatake.boo
+  - name: Club Penguin Atake Websockets
+    url: https://wss.cpatake.boo
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
   - name: Club Penguin Atake Chat Services
@@ -120,8 +120,6 @@ sites:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
   - name: CPI Remix - Web Service
     url: https://ws.cpiremix.com/
-  - name: CPI Remix - Game Server
-    url: http://asap.cpiremix.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
