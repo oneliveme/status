@@ -12,6 +12,8 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: One Live Developer Centre
+    url: https://dev.live.net.co/
   - name: One Live ID Service
     url: https://id.live.net.co/
   - name: Profile API
@@ -22,8 +24,6 @@ sites:
     url: https://store.live.net.co/
   - name: Live Store Dev Center
     url: https://store-dev.live.net.co/
-  - name: Live Store Assets
-    url: https://apollo.fullmoon.dev/
   - name: Live Store API
     url: https://store-api.live.net.co/info
   - name: Live Store Legacy Ruby CDN
@@ -37,7 +37,22 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-      - 404
+  - name: Live Store - Apps
+    url: https://apps-ktw.ls.olcdns.com/
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: Live Store - Icons
+    url: https://icons-ktw.ls.olcdns.com/
+  - name: Live Store - Screenshots
+    url: https://screenshots-ktw.ls.olcdns.com/
+  - name: Live Store - Public API (Zinc)
+    url: https://zinc.onelive.me/
+    expectedStatusCodes:
+      - 200
+      - 400
+  - name: One Live Music - Valia API
+    url: https://valia2.onelive.me/
   - name: Global Assets
     url: https://assets.fullmoon.dev/
   - name: Global CDN
@@ -118,8 +133,8 @@ sites:
     url: https://pc3.cpatake.boo/
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
-  - name: CPI Remix - Web Service
-    url: https://ws.cpiremix.com/
+  - name: Lingva Translate Instance
+    url: https://translate.live.net.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
