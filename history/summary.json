@@ -75,11 +75,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.live.net.co.ico",
     "slug": "one-live-developer-centre",
     "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "96.33%",
+    "uptime": "98.86%",
+    "uptimeDay": "98.03%",
     "uptimeWeek": "98.17%",
     "uptimeMonth": "98.72%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 508,
     "timeDay": 472,
     "timeWeek": 431,
@@ -135,12 +135,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.14%",
-    "uptimeYear": "99.27%",
+    "uptimeYear": "99.28%",
     "time": 522,
     "timeDay": 612,
     "timeWeek": 492,
     "timeMonth": 423,
-    "timeYear": 521,
+    "timeYear": 522,
     "dailyMinutesDown": {
       "2025-07-16": 884,
       "2025-09-27": 700,
@@ -232,16 +232,16 @@
     "url": "https://store-dev.live.net.co/",
     "icon": "https://icons.duckduckgo.com/ip3/store-dev.live.net.co.ico",
     "slug": "live-store-dev-center",
-    "status": "down",
-    "uptime": "98.30%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "98.15%",
+    "status": "up",
+    "uptime": "98.29%",
+    "uptimeDay": "96.07%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "98.14%",
     "time": 510,
-    "timeDay": 261,
-    "timeWeek": 365,
-    "timeMonth": 355,
+    "timeDay": 340,
+    "timeWeek": 380,
+    "timeMonth": 360,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2025-08-06": 583,
@@ -273,7 +273,7 @@
       "2026-05-09": 400,
       "2026-06-25": 95,
       "2026-06-24": 280,
-      "2026-07-15": 5
+      "2026-07-15": 57
     }
   },
   {
@@ -315,11 +315,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/legacy.ls.olcdns.com.ico",
     "slug": "live-store-legacy-ruby-cdn",
     "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.50%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "96.72%",
+    "uptimeYear": "99.50%",
     "time": 271,
     "timeDay": 389,
     "timeWeek": 381,
@@ -337,7 +337,7 @@
       "2026-05-13": 99,
       "2026-06-25": 1098,
       "2026-06-24": 279,
-      "2026-07-15": 5
+      "2026-07-15": 61
     }
   },
   {
@@ -346,11 +346,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pl1.ls.olcdns.com.ico",
     "slug": "live-store-cdn-1",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
     "time": 175,
     "timeDay": 151,
     "timeWeek": 126,
@@ -359,7 +359,7 @@
     "dailyMinutesDown": {
       "2025-08-17": 19,
       "2026-05-13": 99,
-      "2026-07-15": 5
+      "2026-07-15": 61
     }
   },
   {
@@ -368,18 +368,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apps-ktw.ls.olcdns.com.ico",
     "slug": "live-store-apps",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "95.44%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.75%",
+    "uptimeDay": "91.56%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.75%",
     "time": 148,
     "timeDay": 80,
     "timeWeek": 127,
     "timeMonth": 144,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2026-07-15": 66
+      "2026-07-15": 122
     }
   },
   {
@@ -388,11 +388,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/icons-ktw.ls.olcdns.com.ico",
     "slug": "live-store-icons",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "95.46%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.76%",
+    "uptimeDay": "91.57%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.76%",
     "time": 158,
     "timeDay": 78,
     "timeWeek": 85,
@@ -402,7 +402,7 @@
       "2026-06-16": 305,
       "2026-06-29": 164,
       "2026-07-02": 20,
-      "2026-07-15": 65
+      "2026-07-15": 121
     }
   },
   {
@@ -411,11 +411,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/screenshots-ktw.ls.olcdns.com.ico",
     "slug": "live-store-screenshots",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.87%",
+    "uptime": "98.76%",
+    "uptimeDay": "91.59%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "98.76%",
     "time": 158,
     "timeDay": 111,
     "timeWeek": 160,
@@ -425,7 +425,7 @@
       "2026-06-16": 304,
       "2026-06-29": 164,
       "2026-07-02": 20,
-      "2026-07-15": 65
+      "2026-07-15": 121
     }
   },
   {
@@ -455,11 +455,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/valia2.onelive.me.ico",
     "slug": "one-live-music-valia-api",
     "status": "up",
-    "uptime": "91.01%",
-    "uptimeDay": "96.98%",
+    "uptime": "91.02%",
+    "uptimeDay": "98.04%",
     "uptimeWeek": "98.26%",
     "uptimeMonth": "89.96%",
-    "uptimeYear": "91.01%",
+    "uptimeYear": "91.02%",
     "time": 510,
     "timeDay": 627,
     "timeWeek": 552,
@@ -525,10 +525,10 @@
     "slug": "club-penguin-atake-website",
     "status": "down",
     "uptime": "97.66%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "97.79%",
+    "uptimeDay": "95.82%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "97.78%",
     "time": 301,
     "timeDay": 104,
     "timeWeek": 177,
@@ -556,7 +556,7 @@
       "2026-06-05": 1440,
       "2026-06-04": 741,
       "2026-06-24": 100,
-      "2026-07-15": 4
+      "2026-07-15": 60
     }
   },
   {
@@ -565,10 +565,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/as1.cpatake.boo.ico",
     "slug": "club-penguin-atake-as-1",
     "status": "down",
-    "uptime": "95.61%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "98.99%",
+    "uptime": "95.60%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "97.26%",
     "time": 589,
     "timeDay": 168,
@@ -606,7 +606,7 @@
       "2026-06-24": 100,
       "2026-07-05": 168,
       "2026-07-09": 170,
-      "2026-07-15": 4
+      "2026-07-15": 60
     }
   },
   {
@@ -616,9 +616,9 @@
     "slug": "club-penguin-atake-as-2",
     "status": "down",
     "uptime": "95.06%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "96.19%",
     "time": 577,
     "timeDay": 187,
@@ -659,7 +659,7 @@
       "2026-06-24": 100,
       "2026-07-05": 167,
       "2026-07-09": 169,
-      "2026-07-15": 4
+      "2026-07-15": 60
     }
   },
   {
@@ -669,9 +669,9 @@
     "slug": "club-penguin-atake-as-3",
     "status": "down",
     "uptime": "96.02%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "98.30%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "97.27%",
     "time": 673,
     "timeDay": 168,
@@ -708,7 +708,7 @@
       "2026-06-24": 100,
       "2026-07-05": 166,
       "2026-07-09": 168,
-      "2026-07-15": 4
+      "2026-07-15": 60
     }
   },
   {
@@ -717,11 +717,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.cpatake.boo.ico",
     "slug": "club-penguin-atake-app",
     "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "97.79%",
+    "uptime": "98.43%",
+    "uptimeDay": "95.87%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "97.78%",
     "time": 262,
     "timeDay": 98,
     "timeWeek": 182,
@@ -748,7 +748,7 @@
       "2026-06-05": 1440,
       "2026-06-04": 740,
       "2026-06-24": 100,
-      "2026-07-15": 4
+      "2026-07-15": 59
     }
   },
   {
@@ -758,10 +758,10 @@
     "slug": "club-penguin-atake-tv",
     "status": "down",
     "uptime": "96.17%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "97.81%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "97.80%",
     "time": 234,
     "timeDay": 106,
     "timeWeek": 219,
@@ -787,7 +787,7 @@
       "2026-06-05": 1440,
       "2026-06-04": 739,
       "2026-06-24": 99,
-      "2026-07-15": 3
+      "2026-07-15": 59
     }
   },
   {
@@ -796,11 +796,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wss.cpatake.boo.ico",
     "slug": "club-penguin-atake-websockets",
     "status": "down",
-    "uptime": "81.87%",
+    "uptime": "81.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "7.17%",
-    "uptimeMonth": "77.31%",
-    "uptimeYear": "81.87%",
+    "uptimeWeek": "6.62%",
+    "uptimeMonth": "77.18%",
+    "uptimeYear": "81.78%",
     "time": 1069,
     "timeDay": 132,
     "timeWeek": 2566,
@@ -809,7 +809,7 @@
     "dailyMinutesDown": {
       "2026-06-24": 99,
       "2026-07-05": 485,
-      "2026-07-15": 1245,
+      "2026-07-15": 1301,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -824,11 +824,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.cpatake.boo.ico",
     "slug": "club-penguin-atake-chat-services",
     "status": "down",
-    "uptime": "97.60%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "97.60%",
+    "uptime": "97.59%",
+    "uptimeDay": "95.91%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "97.59%",
     "time": 534,
     "timeDay": 288,
     "timeWeek": 461,
@@ -856,7 +856,7 @@
       "2026-06-05": 1440,
       "2026-06-04": 739,
       "2026-06-24": 99,
-      "2026-07-15": 3
+      "2026-07-15": 59
     }
   },
   {
@@ -865,11 +865,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.cpatake.boo.ico",
     "slug": "club-penguin-atake-profile-services",
     "status": "down",
-    "uptime": "91.66%",
+    "uptime": "91.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "30.78%",
-    "uptimeYear": "91.66%",
+    "uptimeMonth": "30.65%",
+    "uptimeYear": "91.65%",
     "time": 8462,
     "timeDay": 789,
     "timeWeek": 702,
@@ -923,7 +923,7 @@
       "2026-06-06": 1440,
       "2026-06-05": 1440,
       "2026-06-04": 738,
-      "2026-07-15": 1245,
+      "2026-07-15": 1301,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
@@ -1009,10 +1009,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/legacy.cpa.olcdns.com.ico",
     "slug": "club-penguin-atake-legacy-cdn",
     "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.47%",
+    "uptime": "98.13%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "97.37%",
     "time": 573,
     "timeDay": 262,
@@ -1048,7 +1048,7 @@
       "2026-06-04": 738,
       "2026-07-05": 65,
       "2026-07-09": 166,
-      "2026-07-15": 2
+      "2026-07-15": 58
     }
   },
   {
@@ -1058,10 +1058,10 @@
     "slug": "club-penguin-atake-vanilla-cdn",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.89%",
     "time": 208,
     "timeDay": 107,
     "timeWeek": 122,
@@ -1075,7 +1075,7 @@
       "2026-05-13": 98,
       "2026-06-06": 171,
       "2026-06-07": 110,
-      "2026-07-15": 2
+      "2026-07-15": 58
     }
   },
   {
@@ -1085,9 +1085,9 @@
     "slug": "club-penguin-atake-antique-cdn",
     "status": "down",
     "uptime": "98.14%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "99.47%",
+    "uptimeDay": "95.99%",
+    "uptimeWeek": "97.78%",
+    "uptimeMonth": "99.34%",
     "uptimeYear": "97.37%",
     "time": 572,
     "timeDay": 243,
@@ -1123,7 +1123,7 @@
       "2026-06-04": 738,
       "2026-07-05": 65,
       "2026-07-09": 166,
-      "2026-07-15": 2
+      "2026-07-15": 58
     }
   },
   {
@@ -1132,10 +1132,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ep.cpatake.boo.ico",
     "slug": "club-penguin-atake-experimental-penguins",
     "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.25%",
+    "uptime": "97.98%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "97.31%",
     "time": 537,
     "timeDay": 129,
@@ -1171,7 +1171,7 @@
       "2026-06-24": 99,
       "2026-07-05": 64,
       "2026-07-09": 165,
-      "2026-07-15": 2
+      "2026-07-15": 58
     }
   },
   {
@@ -1180,10 +1180,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc.cpatake.boo.ico",
     "slug": "club-penguin-atake-penguin-chat",
     "status": "down",
-    "uptime": "97.51%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "99.25%",
+    "uptime": "97.50%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "96.24%",
     "time": 559,
     "timeDay": 163,
@@ -1223,7 +1223,7 @@
       "2026-06-24": 99,
       "2026-07-05": 63,
       "2026-07-09": 164,
-      "2026-07-15": 2
+      "2026-07-15": 57
     }
   },
   {
@@ -1232,10 +1232,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/pc3.cpatake.boo.ico",
     "slug": "club-penguin-atake-penguin-chat-3",
     "status": "down",
-    "uptime": "97.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "98.37%",
-    "uptimeMonth": "99.26%",
+    "uptime": "97.98%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "97.31%",
     "time": 508,
     "timeDay": 193,
@@ -1271,7 +1271,7 @@
       "2026-06-24": 98,
       "2026-07-05": 61,
       "2026-07-09": 162,
-      "2026-07-15": 1
+      "2026-07-15": 57
     }
   },
   {
@@ -1280,11 +1280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.live.net.co.ico",
     "slug": "lingva-translate-instance",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 776,
     "timeDay": 705,
     "timeWeek": 565,
