@@ -27,34 +27,27 @@ sites:
   - name: Live Store API
     url: https://store-api.live.net.co/info
   - name: Live Store Legacy Ruby CDN
-    url: https://legacy.ls.olcdns.com/
+    url: https://legacy.livestore.cdns.onelive.me/
     expectedStatusCodes:
       - 200
       - 403
       - 404
-  - name: Live Store CDN1
-    url: https://pl1.ls.olcdns.com/
-    expectedStatusCodes:
-      - 200
-      - 403
   - name: Live Store - Apps
-    url: https://apps-ktw.ls.olcdns.com/
+    url: https://apps-ktw.livestore.cdns.onelive.me/
     expectedStatusCodes:
       - 200
       - 403
   - name: Live Store - Icons
-    url: https://icons-ktw.ls.olcdns.com/
+    url: https://icons-ktw.livestore.cdns.onelive.me/
   - name: Live Store - Screenshots
-    url: https://screenshots-ktw.ls.olcdns.com/
+    url: https://screenshots-ktw.livestore.cdns.onelive.me/
   - name: Live Store - Public API (Zinc)
     url: https://zinc.onelive.me/
     expectedStatusCodes:
       - 200
       - 400
   - name: One Live Music - Valia API
-    url: https://valia2.onelive.me/
-  - name: Global Assets
-    url: https://assets.fullmoon.dev/
+    url: https://music-api.live.net.co/
   - name: Global CDN
     url: https://edge.live.net.co/
   - name: Club Penguin Atake - Website
@@ -87,35 +80,29 @@ sites:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
   - name: Club Penguin Atake Chat Services
     url: https://chat.cpatake.boo
-    headers:
-      - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
   - name: Club Penguin Atake Profile Services
     url: https://profile.cpatake.boo
-    headers:
-      - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
   - name: Club Penguin Atake TV - Video CDN
     url: https://cdn.tv.cpatake.boo/
-    headers:
-      - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Legacy CDN
-    url: https://legacy.cpa.olcdns.com/
+    url: https://legacy.cdns.cpatake.boo/
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Vanilla CDN
-    url: https://vanilla.cpa.olcdns.com/
+    url: https://vanilla.cdns.cpatake.boo/
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
     expectedStatusCodes:
       - 200
       - 403
   - name: Club Penguin Atake - Antique CDN
-    url: https://antique.cpa.olcdns.com/
+    url: https://antique.cdns.cpatake.boo/
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
     expectedStatusCodes:
@@ -141,8 +128,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fullmoon.dev
   # baseUrl: /your-repo-name
-  favicon: https://cdn.fullmoon.dev/images/moonlight/social-alt.jpg
-  logoUrl: https://cdn.fullmoon.dev/images/moonlight/social-alt.jpg
+  favicon: https://edge.live.net.co/images/onelive/square.png
+  logoUrl: https://edge.live.net.co/images/onelive/square.svg
   name: One Live Status
   introTitle: "You and your world. Always together."
   introMessage: Check the status of our services here.
