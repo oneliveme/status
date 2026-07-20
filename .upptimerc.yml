@@ -80,8 +80,6 @@ sites:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
   - name: Club Penguin Atake Chat Services
     url: https://chat.cpatake.boo
-  - name: Club Penguin Atake Profile Services
-    url: https://profile.cpatake.boo
   - name: Club Penguin Atake TV - Video CDN
     url: https://cdn.tv.cpatake.boo/
     expectedStatusCodes:
