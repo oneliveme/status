@@ -194,16 +194,16 @@
     "url": "https://store.live.net.co/",
     "icon": "https://icons.duckduckgo.com/ip3/store.live.net.co.ico",
     "slug": "live-store-website",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "status": "up",
+    "uptime": "99.09%",
+    "uptimeDay": "95.14%",
+    "uptimeWeek": "99.31%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "98.93%",
     "time": 526,
-    "timeDay": 2676,
-    "timeWeek": 951,
-    "timeMonth": 502,
+    "timeDay": 1882,
+    "timeWeek": 878,
+    "timeMonth": 496,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2025-08-29": 58,
@@ -227,7 +227,7 @@
       "2026-05-02": 37,
       "2026-06-25": 961,
       "2026-06-24": 280,
-      "2026-08-01": 1
+      "2026-08-01": 70
     }
   },
   {
@@ -236,11 +236,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/store-dev.live.net.co.ico",
     "slug": "live-store-dev-center",
     "status": "down",
-    "uptime": "98.36%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "98.14%",
+    "uptime": "98.34%",
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "98.13%",
     "time": 504,
     "timeDay": 166,
     "timeWeek": 316,
@@ -277,7 +277,7 @@
       "2026-06-25": 95,
       "2026-06-24": 280,
       "2026-07-15": 57,
-      "2026-08-01": 1
+      "2026-08-01": 71
     }
   },
   {
@@ -286,11 +286,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/store-api.live.net.co.ico",
     "slug": "live-store-api",
     "status": "down",
-    "uptime": "98.89%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptime": "98.88%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.30%",
     "time": 440,
     "timeDay": 186,
     "timeWeek": 353,
@@ -311,7 +311,7 @@
       "2026-04-30": 71,
       "2026-06-25": 95,
       "2026-06-24": 279,
-      "2026-08-01": 1
+      "2026-08-01": 71
     }
   },
   {
@@ -419,11 +419,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zinc.onelive.me.ico",
     "slug": "live-store-public-api-zinc",
     "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.12%",
+    "uptime": "98.03%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "98.03%",
     "time": 831,
     "timeDay": 419,
     "timeWeek": 782,
@@ -432,7 +432,7 @@
     "dailyMinutesDown": {
       "2026-06-25": 1098,
       "2026-06-24": 279,
-      "2026-08-01": 1
+      "2026-08-01": 71
     }
   },
   {
@@ -756,11 +756,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wss.cpatake.boo.ico",
     "slug": "club-penguin-atake-websockets",
     "status": "up",
-    "uptime": "87.25%",
+    "uptime": "87.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "77.15%",
-    "uptimeYear": "87.25%",
+    "uptimeYear": "87.26%",
     "time": 811,
     "timeDay": 188,
     "timeWeek": 251,
@@ -829,7 +829,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.68%",
+    "uptimeYear": "95.69%",
     "time": 131,
     "timeDay": 74,
     "timeWeek": 87,
@@ -1130,11 +1130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/translate.live.net.co.ico",
     "slug": "lingva-translate-instance",
     "status": "down",
-    "uptime": "77.90%",
-    "uptimeDay": "88.38%",
+    "uptime": "77.83%",
+    "uptimeDay": "83.51%",
     "uptimeWeek": "14.03%",
-    "uptimeMonth": "63.63%",
-    "uptimeYear": "77.90%",
+    "uptimeMonth": "63.47%",
+    "uptimeYear": "77.83%",
     "time": 650,
     "timeDay": 504,
     "timeWeek": 444,
@@ -1156,7 +1156,7 @@
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 790,
-      "2026-08-01": 168
+      "2026-08-01": 238
     }
   }
 ]
