@@ -1,7 +1,7 @@
 url: https://legacy.cdns.cpatake.boo/
-status: up
-code: 403
-responseTime: 465
-lastUpdated: 2026-08-04T23:57:53.163Z
+status: down
+code: 504
+responseTime: 5130
+lastUpdated: 2026-08-05T15:33:41.775Z
 startTime: 2024-04-22T21:40:05.258Z
 generator: Upptime <https://github.com/upptime/upptime>
