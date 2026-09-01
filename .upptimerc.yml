@@ -20,6 +20,16 @@ sites:
     url: https://profile.live.net.co/info
   - name: Online Live Service API
     url: https://ols.live.net.co/info
+  - name: One Live Network
+    url: https://sup.live.net.co/
+  - name: One Live Profile
+    url: https://me.live.net.co/
+  - name: One Live Sync
+    url: https://sync.live.net.co/
+  - name: One Live Mail
+    url: https://mail.live.net.co/
+  - name: One Live Places
+    url: https://places.live.net.co/
   - name: Live Store Website
     url: https://store.live.net.co/
   - name: Live Store Dev Center
@@ -118,8 +128,6 @@ sites:
     url: https://pc3.cpatake.boo/
     headers:
       - "User-Agent: ClubPenguinAtakeApp/STATUSCHECK"
-  - name: Lingva Translate Instance
-    url: https://translate.live.net.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
