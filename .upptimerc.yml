@@ -42,22 +42,16 @@ sites:
       - 200
       - 403
       - 404
-  - name: Live Store - Apps
-    url: https://apps-ktw.livestore.cdns.onelive.me/
+  - name: Live Store - CDN
+    url: https://cdn.store.live.net.co/
     expectedStatusCodes:
       - 200
       - 403
-  - name: Live Store - Icons
-    url: https://icons-ktw.livestore.cdns.onelive.me/
-  - name: Live Store - Screenshots
-    url: https://screenshots-ktw.livestore.cdns.onelive.me/
   - name: Live Store - Public API (Zinc)
     url: https://zinc.onelive.me/
     expectedStatusCodes:
       - 200
       - 400
-  - name: One Live Music - Valia API
-    url: https://music-api.live.net.co/
   - name: Global CDN
     url: https://edge.live.net.co/
   - name: Club Penguin Atake - Website
