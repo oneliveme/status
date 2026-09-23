@@ -13,8 +13,8 @@
     "time": 243,
     "timeDay": 207,
     "timeWeek": 201,
-    "timeMonth": 211,
-    "timeYear": 219,
+    "timeMonth": 209,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-10-28": 17,
       "2025-11-18": 459,
@@ -38,7 +38,7 @@
     "time": 77,
     "timeDay": 101,
     "timeWeek": 124,
-    "timeMonth": 133,
+    "timeMonth": 135,
     "timeYear": 76,
     "dailyMinutesDown": {
       "2025-11-18": 459,
@@ -63,7 +63,7 @@
     "timeDay": 649,
     "timeWeek": 691,
     "timeMonth": 653,
-    "timeYear": 611,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-11-18": 88,
       "2026-01-27": 22
@@ -83,7 +83,7 @@
     "time": 463,
     "timeDay": 370,
     "timeWeek": 468,
-    "timeMonth": 471,
+    "timeMonth": 469,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2026-06-25": 95,
@@ -109,8 +109,8 @@
     "time": 587,
     "timeDay": 353,
     "timeWeek": 454,
-    "timeMonth": 458,
-    "timeYear": 562,
+    "timeMonth": 455,
+    "timeYear": 563,
     "dailyMinutesDown": {
       "2025-10-12": 15,
       "2025-10-23": 61,
@@ -141,8 +141,8 @@
     "time": 538,
     "timeDay": 418,
     "timeWeek": 461,
-    "timeMonth": 464,
-    "timeYear": 493,
+    "timeMonth": 463,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2025-09-27": 700,
       "2025-10-12": 15,
@@ -172,8 +172,8 @@
     "time": 460,
     "timeDay": 347,
     "timeWeek": 445,
-    "timeMonth": 451,
-    "timeYear": 464,
+    "timeMonth": 449,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-10-12": 15,
       "2025-10-23": 59,
@@ -247,19 +247,20 @@
     "url": "https://mail.live.net.co/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.live.net.co.ico",
     "slug": "one-live-mail",
-    "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
+    "status": "down",
+    "uptime": "99.04%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "99.04%",
+    "uptimeYear": "99.04%",
     "time": 1042,
     "timeDay": 362,
     "timeWeek": 1955,
     "timeMonth": 1042,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2026-09-17": 288
+      "2026-09-17": 288,
+      "2026-09-23": 10
     }
   },
   {
@@ -267,19 +268,20 @@
     "url": "https://places.live.net.co/",
     "icon": "https://icons.duckduckgo.com/ip3/places.live.net.co.ico",
     "slug": "one-live-places",
-    "status": "up",
-    "uptime": "98.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "98.49%",
+    "status": "down",
+    "uptime": "98.50%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
     "time": 593,
     "timeDay": 512,
     "timeWeek": 580,
     "timeMonth": 593,
     "timeYear": 593,
     "dailyMinutesDown": {
-      "2026-09-17": 463
+      "2026-09-17": 463,
+      "2026-09-23": 1
     }
   },
   {
@@ -296,7 +298,7 @@
     "time": 520,
     "timeDay": 307,
     "timeWeek": 651,
-    "timeMonth": 453,
+    "timeMonth": 454,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2025-10-07": 25,
@@ -337,8 +339,8 @@
     "time": 519,
     "timeDay": 309,
     "timeWeek": 682,
-    "timeMonth": 760,
-    "timeYear": 514,
+    "timeMonth": 770,
+    "timeYear": 515,
     "dailyMinutesDown": {
       "2025-10-05": 49,
       "2025-10-07": 24,
@@ -386,8 +388,8 @@
     "time": 437,
     "timeDay": 331,
     "timeWeek": 463,
-    "timeMonth": 455,
-    "timeYear": 460,
+    "timeMonth": 452,
+    "timeYear": 461,
     "dailyMinutesDown": {
       "2025-10-12": 39,
       "2025-10-23": 58,
@@ -420,7 +422,7 @@
     "time": 288,
     "timeDay": 410,
     "timeWeek": 435,
-    "timeMonth": 428,
+    "timeMonth": 422,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-11-18": 459,
@@ -468,7 +470,7 @@
     "time": 834,
     "timeDay": 670,
     "timeWeek": 850,
-    "timeMonth": 860,
+    "timeMonth": 856,
     "timeYear": 834,
     "dailyMinutesDown": {
       "2026-06-25": 1098,
@@ -490,8 +492,8 @@
     "time": 282,
     "timeDay": 313,
     "timeWeek": 353,
-    "timeMonth": 374,
-    "timeYear": 307,
+    "timeMonth": 370,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   },
   {
@@ -508,7 +510,7 @@
     "time": 263,
     "timeDay": 201,
     "timeWeek": 216,
-    "timeMonth": 518,
+    "timeMonth": 527,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2025-11-18": 476,
@@ -545,8 +547,8 @@
     "time": 636,
     "timeDay": 208,
     "timeWeek": 234,
-    "timeMonth": 515,
-    "timeYear": 611,
+    "timeMonth": 523,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2025-11-18": 459,
       "2026-01-11": 198,
@@ -587,7 +589,7 @@
     "time": 623,
     "timeDay": 155,
     "timeWeek": 227,
-    "timeMonth": 511,
+    "timeMonth": 517,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2025-11-18": 459,
@@ -628,8 +630,8 @@
     "time": 716,
     "timeDay": 225,
     "timeWeek": 227,
-    "timeMonth": 520,
-    "timeYear": 671,
+    "timeMonth": 527,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2025-11-18": 459,
       "2026-01-11": 198,
@@ -669,7 +671,7 @@
     "time": 278,
     "timeDay": 213,
     "timeWeek": 211,
-    "timeMonth": 502,
+    "timeMonth": 513,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-09-29": 50,
@@ -705,7 +707,7 @@
     "time": 250,
     "timeDay": 155,
     "timeWeek": 201,
-    "timeMonth": 494,
+    "timeMonth": 502,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2025-11-18": 428,
@@ -732,15 +734,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wss.cpatake.boo.ico",
     "slug": "club-penguin-atake-websockets",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "92.77%",
+    "uptimeYear": "92.79%",
     "time": 774,
     "timeDay": 122,
     "timeWeek": 240,
-    "timeMonth": 526,
+    "timeMonth": 532,
     "timeYear": 774,
     "dailyMinutesDown": {
       "2026-06-24": 99,
@@ -771,8 +773,8 @@
     "time": 545,
     "timeDay": 432,
     "timeWeek": 467,
-    "timeMonth": 772,
-    "timeYear": 558,
+    "timeMonth": 775,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2025-10-12": 16,
       "2025-10-23": 57,
@@ -801,16 +803,16 @@
     "url": "https://cdn.tv.cpatake.boo/",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.tv.cpatake.boo.ico",
     "slug": "club-penguin-atake-tv-video-cdn",
-    "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "74.73%",
-    "uptimeWeek": "93.17%",
+    "status": "down",
+    "uptime": "97.48%",
+    "uptimeDay": "82.47%",
+    "uptimeWeek": "93.16%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.79%",
-    "time": 138,
+    "time": 137,
     "timeDay": 121,
-    "timeWeek": 136,
-    "timeMonth": 145,
+    "timeWeek": 131,
+    "timeMonth": 138,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2026-03-26": 56,
@@ -820,7 +822,8 @@
       "2026-09-18": 271,
       "2026-09-19": 53,
       "2026-09-22": 273,
-      "2026-09-21": 91
+      "2026-09-21": 91,
+      "2026-09-23": 1
     }
   },
   {
@@ -837,7 +840,7 @@
     "time": 581,
     "timeDay": 491,
     "timeWeek": 564,
-    "timeMonth": 513,
+    "timeMonth": 520,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2025-11-18": 419,
@@ -878,7 +881,7 @@
     "timeDay": 310,
     "timeWeek": 475,
     "timeMonth": 272,
-    "timeYear": 224,
+    "timeYear": 225,
     "dailyMinutesDown": {
       "2025-10-23": 19,
       "2026-03-19": 83,
@@ -904,7 +907,7 @@
     "time": 575,
     "timeDay": 369,
     "timeWeek": 495,
-    "timeMonth": 429,
+    "timeMonth": 436,
     "timeYear": 462,
     "dailyMinutesDown": {
       "2025-11-18": 428,
@@ -944,8 +947,8 @@
     "time": 585,
     "timeDay": 249,
     "timeWeek": 199,
-    "timeMonth": 475,
-    "timeYear": 558,
+    "timeMonth": 484,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2025-11-18": 459,
       "2026-01-11": 199,
@@ -984,10 +987,9 @@
     "time": 607,
     "timeDay": 126,
     "timeWeek": 170,
-    "timeMonth": 478,
+    "timeMonth": 482,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2025-09-23": 17,
       "2025-11-18": 459,
       "2026-01-11": 199,
       "2026-01-10": 19,
@@ -1024,7 +1026,7 @@
     "time": 520,
     "timeDay": 70,
     "timeWeek": 155,
-    "timeMonth": 462,
+    "timeMonth": 470,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-11-18": 476,
