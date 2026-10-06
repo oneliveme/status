@@ -258,11 +258,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.live.net.co.ico",
     "slug": "one-live-mail",
     "status": "down",
-    "uptime": "95.63%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "95.63%",
+    "uptime": "95.56%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "94.95%",
+    "uptimeYear": "95.56%",
     "time": 816,
     "timeDay": 442,
     "timeWeek": 599,
@@ -276,7 +276,7 @@
       "2026-09-26": 132,
       "2026-09-28": 52,
       "2026-10-02": 289,
-      "2026-10-06": 1
+      "2026-10-06": 33
     }
   },
   {
@@ -313,7 +313,7 @@
     "status": "up",
     "uptime": "99.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.76%",
+    "uptimeWeek": "94.07%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "98.79%",
     "time": 533,
@@ -356,7 +356,7 @@
     "status": "up",
     "uptime": "98.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.76%",
+    "uptimeWeek": "94.07%",
     "uptimeMonth": "95.08%",
     "uptimeYear": "97.92%",
     "time": 534,
@@ -828,10 +828,10 @@
     "slug": "club-penguin-atake-tv-video-cdn",
     "status": "down",
     "uptime": "97.46%",
-    "uptimeDay": "64.20%",
-    "uptimeWeek": "94.89%",
-    "uptimeMonth": "95.81%",
-    "uptimeYear": "99.57%",
+    "uptimeDay": "62.00%",
+    "uptimeWeek": "94.57%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.56%",
     "time": 140,
     "timeDay": 100,
     "timeWeek": 156,
@@ -852,7 +852,7 @@
       "2026-09-27": 52,
       "2026-09-29": 65,
       "2026-10-05": 514,
-      "2026-10-06": 1
+      "2026-10-06": 33
     }
   },
   {
