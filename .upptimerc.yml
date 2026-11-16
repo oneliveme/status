@@ -16,8 +16,6 @@ sites:
     url: https://dev.live.net.co/
   - name: One Live ID Service
     url: https://id.live.net.co/
-  - name: Profile API
-    url: https://profile.live.net.co/info
   - name: Online Live Service API
     url: https://ols.live.net.co/info
   - name: One Live Network
@@ -26,8 +24,6 @@ sites:
     url: https://me.live.net.co/
   - name: One Live Sync
     url: https://sync.live.net.co/
-  - name: One Live Mail
-    url: https://mail.live.net.co/
   - name: One Live Places
     url: https://places.live.net.co/
   - name: Live Store Website
